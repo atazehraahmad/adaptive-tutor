@@ -1,0 +1,6 @@
+streamlit>=1.40
+altair>=5.0
+pandas>=2.0
+pytest>=8.0
+# optional: enables hosted question generation and reasoning analysis
+# anthropic>=0.40

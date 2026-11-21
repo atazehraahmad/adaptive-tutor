@@ -1,0 +1,1720 @@
+{
+ "questions": [
+  {
+   "id": "Q001",
+   "concept": "C01",
+   "difficulty": 1,
+   "stem": "You can see a wooden chair in a lit room. Which statement describes how you see it?",
+   "options": [
+    {
+     "text": "Light from the lamp reflects off the chair and enters your eye",
+     "correct": true
+    },
+    {
+     "text": "Your eye sends out rays that strike the chair",
+     "misconception": "M_EYE_EMITS"
+    },
+    {
+     "text": "The chair produces its own light which reaches your eye"
+    },
+    {
+     "text": "The chair must be hot for you to see it"
+    }
+   ],
+   "explanation": "Non-luminous objects are seen by diffusely reflecting light from a source into the eye."
+  },
+  {
+   "id": "Q002",
+   "concept": "C01",
+   "difficulty": 2,
+   "stem": "Why can you not see around a corner, even in a brightly lit corridor?",
+   "options": [
+    {
+     "text": "Light travels in straight lines in a uniform medium",
+     "correct": true
+    },
+    {
+     "text": "Rays from the eye cannot turn corners",
+     "misconception": "M_EYE_EMITS"
+    },
+    {
+     "text": "Light is absorbed completely by the wall"
+    },
+    {
+     "text": "Light slows down near solid objects"
+    }
+   ],
+   "explanation": "Rectilinear propagation means light does not bend round an obstacle at everyday scales."
+  },
+  {
+   "id": "Q003",
+   "concept": "C02",
+   "difficulty": 1,
+   "stem": "A ray strikes a plane mirror at 30 degrees to the mirror surface. What is the angle of reflection?",
+   "options": [
+    {
+     "text": "60 degrees",
+     "correct": true
+    },
+    {
+     "text": "30 degrees"
+    },
+    {
+     "text": "120 degrees"
+    },
+    {
+     "text": "The ray passes into the mirror and bends",
+     "misconception": "M_REFRACT_IS_REFLECT"
+    }
+   ],
+   "explanation": "Angles are measured from the normal, so the angle of incidence is 90 - 30 = 60 degrees, and reflection equals it."
+  },
+  {
+   "id": "Q004",
+   "concept": "C02",
+   "difficulty": 2,
+   "stem": "Which quantities always lie in one plane for a reflected ray?",
+   "options": [
+    {
+     "text": "Incident ray, reflected ray and the normal at the point of incidence",
+     "correct": true
+    },
+    {
+     "text": "Incident ray, refracted ray and the mirror surface",
+     "misconception": "M_REFRACT_IS_REFLECT"
+    },
+    {
+     "text": "Only the incident and reflected rays"
+    },
+    {
+     "text": "The normal and the mirror surface only"
+    }
+   ],
+   "explanation": "The second law of reflection states all three lie in the same plane."
+  },
+  {
+   "id": "Q005",
+   "concept": "C03",
+   "difficulty": 1,
+   "stem": "You stand 2 m from a plane mirror. How far is your image from you?",
+   "options": [
+    {
+     "text": "4 m",
+     "correct": true
+    },
+    {
+     "text": "2 m",
+     "misconception": "M_IMG_ON_SURFACE"
+    },
+    {
+     "text": "1 m"
+    },
+    {
+     "text": "It depends on the size of the mirror"
+    }
+   ],
+   "explanation": "The image is 2 m behind the mirror, so it is 4 m from you."
+  },
+  {
+   "id": "Q006",
+   "concept": "C03",
+   "difficulty": 2,
+   "stem": "Which set correctly describes the image in a plane mirror?",
+   "options": [
+    {
+     "text": "Virtual, erect, same size, laterally inverted",
+     "correct": true
+    },
+    {
+     "text": "Real, erect, same size, formed on the mirror surface",
+     "misconception": "M_IMG_ON_SURFACE"
+    },
+    {
+     "text": "Virtual, inverted, magnified"
+    },
+    {
+     "text": "Real, inverted, diminished"
+    }
+   ],
+   "explanation": "A plane mirror always gives a virtual, erect, same-sized, laterally inverted image as far behind as the object is in front."
+  },
+  {
+   "id": "Q007",
+   "concept": "C04",
+   "difficulty": 1,
+   "stem": "A concave mirror has a radius of curvature of 24 cm. What is its focal length?",
+   "options": [
+    {
+     "text": "12 cm",
+     "correct": true
+    },
+    {
+     "text": "24 cm",
+     "misconception": "M_F_EQUALS_R"
+    },
+    {
+     "text": "48 cm"
+    },
+    {
+     "text": "6 cm"
+    }
+   ],
+   "explanation": "For a spherical mirror f = R/2 = 12 cm."
+  },
+  {
+   "id": "Q008",
+   "concept": "C04",
+   "difficulty": 2,
+   "stem": "The centre of curvature of a concave mirror lies 30 cm from the pole. Where is the principal focus?",
+   "options": [
+    {
+     "text": "15 cm from the pole, in front of the mirror",
+     "correct": true
+    },
+    {
+     "text": "30 cm from the pole, coinciding with the centre of curvature",
+     "misconception": "M_F_EQUALS_R"
+    },
+    {
+     "text": "15 cm behind the mirror"
+    },
+    {
+     "text": "At the pole itself"
+    }
+   ],
+   "explanation": "F is the midpoint of P and C, so 15 cm in front for a concave mirror."
+  },
+  {
+   "id": "Q009",
+   "concept": "C05",
+   "difficulty": 2,
+   "stem": "An object is placed between the pole and the focus of a concave mirror. The image is:",
+   "options": [
+    {
+     "text": "Virtual, erect and enlarged",
+     "correct": true
+    },
+    {
+     "text": "Real, inverted and enlarged",
+     "misconception": "M_CONCAVE_ALWAYS_REAL"
+    },
+    {
+     "text": "Real, inverted and diminished",
+     "misconception": "M_CONCAVE_ALWAYS_REAL"
+    },
+    {
+     "text": "Formed exactly on the mirror surface",
+     "misconception": "M_IMG_ON_SURFACE"
+    }
+   ],
+   "explanation": "Inside the focus the reflected rays diverge, so only their extensions meet: a virtual, erect, magnified image. This is the shaving-mirror case."
+  },
+  {
+   "id": "Q010",
+   "concept": "C05",
+   "difficulty": 3,
+   "stem": "An object sits at the centre of curvature of a concave mirror. The image is:",
+   "options": [
+    {
+     "text": "At C, real, inverted and the same size",
+     "correct": true
+    },
+    {
+     "text": "At F, real, inverted and diminished"
+    },
+    {
+     "text": "Behind the mirror, virtual and erect"
+    },
+    {
+     "text": "On the mirror surface, same size",
+     "misconception": "M_IMG_ON_SURFACE"
+    }
+   ],
+   "explanation": "At C the image returns to C, real, inverted, equal in size."
+  },
+  {
+   "id": "Q011",
+   "concept": "C06",
+   "difficulty": 2,
+   "stem": "A concave mirror of focal length 15 cm forms an image of an object placed 20 cm in front. Using the sign convention, the image distance v is:",
+   "options": [
+    {
+     "text": "-60 cm, so the image is 60 cm in front of the mirror",
+     "correct": true
+    },
+    {
+     "text": "+60 cm, so the image is 60 cm behind the mirror",
+     "misconception": "M_NO_SIGN_CONVENTION"
+    },
+    {
+     "text": "-8.6 cm"
+    },
+    {
+     "text": "+30 cm, since f equals R"
+    }
+   ],
+   "explanation": "With u = -20 and f = -15, 1/v = 1/f - 1/u = -1/15 + 1/20 = -1/60, giving v = -60 cm: real, in front."
+  },
+  {
+   "id": "Q012",
+   "concept": "C06",
+   "difficulty": 3,
+   "stem": "For a convex mirror, which statement about the signs is correct for a real object?",
+   "options": [
+    {
+     "text": "u is negative while f and v are positive",
+     "correct": true
+    },
+    {
+     "text": "All of u, v and f are positive",
+     "misconception": "M_NO_SIGN_CONVENTION"
+    },
+    {
+     "text": "All of u, v and f are negative"
+    },
+    {
+     "text": "f is negative because the mirror curves outward"
+    }
+   ],
+   "explanation": "Distances measured against the incident light are negative; a convex mirror's focus and virtual image lie behind it, so f and v are positive."
+  },
+  {
+   "id": "Q013",
+   "concept": "C07",
+   "difficulty": 2,
+   "stem": "A mirror produces a magnification of -3 for a 2 cm object. The image is:",
+   "options": [
+    {
+     "text": "6 cm tall and inverted",
+     "correct": true
+    },
+    {
+     "text": "About 0.67 cm tall and inverted",
+     "misconception": "M_NEG_M_MEANS_SMALL"
+    },
+    {
+     "text": "6 cm tall and erect"
+    },
+    {
+     "text": "2 cm tall and inverted"
+    }
+   ],
+   "explanation": "The modulus of m gives the size ratio (3x, so 6 cm); the minus sign means inverted."
+  },
+  {
+   "id": "Q014",
+   "concept": "C07",
+   "difficulty": 1,
+   "stem": "A convex mirror used as a vehicle rear-view mirror gives a magnification of +0.5. The image is:",
+   "options": [
+    {
+     "text": "Erect and half the size of the object",
+     "correct": true
+    },
+    {
+     "text": "Inverted and half the size",
+     "misconception": "M_NEG_M_MEANS_SMALL"
+    },
+    {
+     "text": "Erect and twice the size",
+     "misconception": "M_NEG_M_MEANS_SMALL"
+    },
+    {
+     "text": "The same size but reversed"
+    }
+   ],
+   "explanation": "Positive m means erect; 0.5 means half the size, which is why convex mirrors give a wide field of view."
+  },
+  {
+   "id": "Q015",
+   "concept": "C08",
+   "difficulty": 1,
+   "stem": "Light passes from air into water. What actually causes it to change direction?",
+   "options": [
+    {
+     "text": "Its speed changes at the boundary between the media",
+     "correct": true
+    },
+    {
+     "text": "It bounces off the water surface",
+     "misconception": "M_REFRACT_IS_REFLECT"
+    },
+    {
+     "text": "Its speed is the same but the water pushes it sideways",
+     "misconception": "M_SPEED_CONSTANT_ALL_MEDIA"
+    },
+    {
+     "text": "Water particles absorb and re-emit it randomly"
+    }
+   ],
+   "explanation": "Refraction arises because light travels at different speeds in different media."
+  },
+  {
+   "id": "Q016",
+   "concept": "C08",
+   "difficulty": 2,
+   "stem": "A ray travels from air into a glass block, striking the surface obliquely. It bends:",
+   "options": [
+    {
+     "text": "Toward the normal, because glass is optically denser",
+     "correct": true
+    },
+    {
+     "text": "Away from the normal, because glass is optically denser",
+     "misconception": "M_BEND_AWAY_DENSER"
+    },
+    {
+     "text": "Not at all, since its speed is unchanged",
+     "misconception": "M_SPEED_CONSTANT_ALL_MEDIA"
+    },
+    {
+     "text": "Back into the air along the same path",
+     "misconception": "M_REFRACT_IS_REFLECT"
+    }
+   ],
+   "explanation": "Entering a denser medium light slows and bends toward the normal."
+  },
+  {
+   "id": "Q017",
+   "concept": "C09",
+   "difficulty": 2,
+   "stem": "The refractive index of water is 1.33. The speed of light in water is about:",
+   "options": [
+    {
+     "text": "2.26 x 10^8 m/s",
+     "correct": true
+    },
+    {
+     "text": "3 x 10^8 m/s, the same as in air",
+     "misconception": "M_SPEED_CONSTANT_ALL_MEDIA"
+    },
+    {
+     "text": "3.99 x 10^8 m/s"
+    },
+    {
+     "text": "1.33 x 10^8 m/s"
+    }
+   ],
+   "explanation": "v = c/n = 3 x 10^8 / 1.33, which is about 2.26 x 10^8 m/s."
+  },
+  {
+   "id": "Q018",
+   "concept": "C09",
+   "difficulty": 1,
+   "stem": "What is the unit of refractive index?",
+   "options": [
+    {
+     "text": "It has no unit",
+     "correct": true
+    },
+    {
+     "text": "m/s",
+     "misconception": "M_RI_HAS_UNITS"
+    },
+    {
+     "text": "dioptre"
+    },
+    {
+     "text": "metre"
+    }
+   ],
+   "explanation": "It is the ratio of two speeds, so the units cancel."
+  },
+  {
+   "id": "Q019",
+   "concept": "C10",
+   "difficulty": 2,
+   "stem": "Light goes from glass (n = 1.5) into air. Compared with the incident ray, the refracted ray:",
+   "options": [
+    {
+     "text": "Bends away from the normal",
+     "correct": true
+    },
+    {
+     "text": "Bends toward the normal",
+     "misconception": "M_BEND_AWAY_DENSER"
+    },
+    {
+     "text": "Continues undeviated regardless of the angle"
+    },
+    {
+     "text": "Is reflected back into the glass at every angle"
+    }
+   ],
+   "explanation": "Going into a rarer medium light speeds up and bends away from the normal."
+  },
+  {
+   "id": "Q020",
+   "concept": "C10",
+   "difficulty": 3,
+   "stem": "A ray enters a medium at 45 degrees to the normal and refracts at 30 degrees. The refractive index is about:",
+   "options": [
+    {
+     "text": "1.41",
+     "correct": true
+    },
+    {
+     "text": "0.71",
+     "misconception": "M_BEND_AWAY_DENSER"
+    },
+    {
+     "text": "1.50"
+    },
+    {
+     "text": "1.73"
+    }
+   ],
+   "explanation": "n = sin 45 / sin 30 = 0.707 / 0.5, which is about 1.41."
+  },
+  {
+   "id": "Q021",
+   "concept": "C11",
+   "difficulty": 2,
+   "stem": "A ray passes obliquely through a rectangular glass slab. The emergent ray is:",
+   "options": [
+    {
+     "text": "Parallel to the incident ray but laterally displaced",
+     "correct": true
+    },
+    {
+     "text": "Bent further away from the original direction",
+     "misconception": "M_BEND_AWAY_DENSER"
+    },
+    {
+     "text": "Reflected back along the incident path",
+     "misconception": "M_REFRACT_IS_REFLECT"
+    },
+    {
+     "text": "Perpendicular to the incident ray"
+    }
+   ],
+   "explanation": "The two parallel surfaces produce equal and opposite bends, so direction is restored with a sideways shift."
+  },
+  {
+   "id": "Q022",
+   "concept": "C11",
+   "difficulty": 3,
+   "stem": "Lateral displacement through a glass slab increases when:",
+   "options": [
+    {
+     "text": "The slab is made thicker",
+     "correct": true
+    },
+    {
+     "text": "The ray strikes exactly along the normal"
+    },
+    {
+     "text": "The refractive index is reduced toward 1"
+    },
+    {
+     "text": "The slab is cooled so light speeds up inside",
+     "misconception": "M_SPEED_CONSTANT_ALL_MEDIA"
+    }
+   ],
+   "explanation": "Displacement grows with thickness, angle of incidence and refractive index; at normal incidence it is zero."
+  },
+  {
+   "id": "Q023",
+   "concept": "C12",
+   "difficulty": 1,
+   "stem": "Which lens is thicker at the middle than at the edges and converges a parallel beam?",
+   "options": [
+    {
+     "text": "Convex lens",
+     "correct": true
+    },
+    {
+     "text": "Concave lens"
+    },
+    {
+     "text": "Both converge a parallel beam"
+    },
+    {
+     "text": "Neither, lenses only reflect light",
+     "misconception": "M_REFRACT_IS_REFLECT"
+    }
+   ],
+   "explanation": "A convex lens is thicker centrally and brings parallel rays to a real focus."
+  },
+  {
+   "id": "Q024",
+   "concept": "C12",
+   "difficulty": 2,
+   "stem": "Which statement about a convex lens is true?",
+   "options": [
+    {
+     "text": "It can form a diminished image when the object is beyond 2F",
+     "correct": true
+    },
+    {
+     "text": "It always forms an enlarged image",
+     "misconception": "M_CONVEX_LENS_ALWAYS_MAGNIFIES"
+    },
+    {
+     "text": "It always forms a virtual image"
+    },
+    {
+     "text": "It diverges every incident beam"
+    }
+   ],
+   "explanation": "Beyond 2F the image is real, inverted and diminished; magnification depends on object position."
+  },
+  {
+   "id": "Q025",
+   "concept": "C13",
+   "difficulty": 2,
+   "stem": "An object is at 2F of a convex lens. The image is:",
+   "options": [
+    {
+     "text": "At 2F on the other side, real, inverted and the same size",
+     "correct": true
+    },
+    {
+     "text": "At F, real, inverted and enlarged",
+     "misconception": "M_CONVEX_LENS_ALWAYS_MAGNIFIES"
+    },
+    {
+     "text": "At infinity"
+    },
+    {
+     "text": "Virtual and erect on the same side"
+    }
+   ],
+   "explanation": "Object at 2F gives an image at 2F, equal in size and inverted."
+  },
+  {
+   "id": "Q026",
+   "concept": "C13",
+   "difficulty": 3,
+   "stem": "An object is placed between F and the optical centre of a convex lens. The image is:",
+   "options": [
+    {
+     "text": "Virtual, erect and enlarged, on the same side as the object",
+     "correct": true
+    },
+    {
+     "text": "Real, inverted and enlarged on the far side"
+    },
+    {
+     "text": "Real and diminished at F"
+    },
+    {
+     "text": "Always the same size as the object",
+     "misconception": "M_CONVEX_LENS_ALWAYS_MAGNIFIES"
+    }
+   ],
+   "explanation": "This is the magnifying glass case: rays diverge after the lens, so the image is virtual, erect and magnified."
+  },
+  {
+   "id": "Q027",
+   "concept": "C14",
+   "difficulty": 2,
+   "stem": "A convex lens of focal length 10 cm has an object 15 cm away. The image distance v is:",
+   "options": [
+    {
+     "text": "+30 cm, real and on the opposite side",
+     "correct": true
+    },
+    {
+     "text": "-30 cm, virtual and on the same side",
+     "misconception": "M_NO_SIGN_CONVENTION"
+    },
+    {
+     "text": "+6 cm"
+    },
+    {
+     "text": "+25 cm"
+    }
+   ],
+   "explanation": "With u = -15 and f = +10, 1/v = 1/f + 1/u = 1/10 - 1/15 = 1/30, so v = +30 cm."
+  },
+  {
+   "id": "Q028",
+   "concept": "C14",
+   "difficulty": 3,
+   "stem": "For the lens above, the magnification is -2. This means the image is:",
+   "options": [
+    {
+     "text": "Twice as tall as the object and inverted",
+     "correct": true
+    },
+    {
+     "text": "Half as tall and inverted",
+     "misconception": "M_NEG_M_MEANS_SMALL"
+    },
+    {
+     "text": "Twice as tall and erect"
+    },
+    {
+     "text": "The same height but reversed left to right"
+    }
+   ],
+   "explanation": "m = v/u = 30/(-15) = -2, so twice the size and inverted."
+  },
+  {
+   "id": "Q029",
+   "concept": "C15",
+   "difficulty": 1,
+   "stem": "A convex lens has a focal length of 20 cm. Its power is:",
+   "options": [
+    {
+     "text": "+5 D",
+     "correct": true
+    },
+    {
+     "text": "+0.05 D",
+     "misconception": "M_POWER_IN_CM"
+    },
+    {
+     "text": "-5 D"
+    },
+    {
+     "text": "+20 D"
+    }
+   ],
+   "explanation": "P = 1/f with f in metres: 1/0.20 = +5 D."
+  },
+  {
+   "id": "Q030",
+   "concept": "C15",
+   "difficulty": 3,
+   "stem": "Two thin lenses of powers +4 D and -6 D are placed in contact. The combination is:",
+   "options": [
+    {
+     "text": "A diverging lens of focal length about 50 cm",
+     "correct": true
+    },
+    {
+     "text": "A converging lens of focal length about 10 cm"
+    },
+    {
+     "text": "A diverging lens of power -24 D"
+    },
+    {
+     "text": "A converging lens of power +0.02 D",
+     "misconception": "M_POWER_IN_CM"
+    }
+   ],
+   "explanation": "Powers add: P = 4 - 6 = -2 D, so f = -0.5 m, a diverging combination of focal length 50 cm."
+  },
+  {
+   "id": "Q031",
+   "concept": "C16",
+   "difficulty": 1,
+   "stem": "Which part of the eye controls the amount of light entering it?",
+   "options": [
+    {
+     "text": "The iris, by changing the size of the pupil",
+     "correct": true
+    },
+    {
+     "text": "The cornea"
+    },
+    {
+     "text": "The retina"
+    },
+    {
+     "text": "The optic nerve"
+    }
+   ],
+   "explanation": "The iris is the coloured muscular diaphragm that adjusts the pupil aperture."
+  },
+  {
+   "id": "Q032",
+   "concept": "C16",
+   "difficulty": 2,
+   "stem": "Where is a real, inverted image formed inside the human eye?",
+   "options": [
+    {
+     "text": "On the retina",
+     "correct": true
+    },
+    {
+     "text": "On the cornea"
+    },
+    {
+     "text": "At the pupil"
+    },
+    {
+     "text": "On the eye lens surface itself"
+    }
+   ],
+   "explanation": "The cornea and lens together focus light onto the light-sensitive retina."
+  },
+  {
+   "id": "Q033",
+   "concept": "C17",
+   "difficulty": 2,
+   "stem": "How does the eye focus on a nearby object after looking at a distant one?",
+   "options": [
+    {
+     "text": "Ciliary muscles contract, thickening the lens and shortening its focal length",
+     "correct": true
+    },
+    {
+     "text": "The lens moves forward toward the cornea",
+     "misconception": "M_LENS_MOVES_TO_FOCUS"
+    },
+    {
+     "text": "The retina moves backward"
+    },
+    {
+     "text": "The pupil closes completely"
+    }
+   ],
+   "explanation": "Accommodation changes lens curvature, not lens position."
+  },
+  {
+   "id": "Q034",
+   "concept": "C17",
+   "difficulty": 1,
+   "stem": "The least distance of distinct vision for a normal adult eye is about:",
+   "options": [
+    {
+     "text": "25 cm",
+     "correct": true
+    },
+    {
+     "text": "25 m"
+    },
+    {
+     "text": "2.5 cm"
+    },
+    {
+     "text": "Infinity"
+    }
+   ],
+   "explanation": "The near point of a normal eye is roughly 25 cm; the far point is at infinity."
+  },
+  {
+   "id": "Q035",
+   "concept": "C18",
+   "difficulty": 2,
+   "stem": "A student cannot see the blackboard clearly but reads a book easily. The defect and its correction are:",
+   "options": [
+    {
+     "text": "Myopia, corrected with a concave lens",
+     "correct": true
+    },
+    {
+     "text": "Myopia, corrected with a convex lens",
+     "misconception": "M_MYOPIA_CONVEX"
+    },
+    {
+     "text": "Hypermetropia, corrected with a concave lens",
+     "misconception": "M_MYOPIA_CONVEX"
+    },
+    {
+     "text": "Presbyopia, corrected with a bifocal lens"
+    }
+   ],
+   "explanation": "In myopia the image falls in front of the retina, so a diverging (concave) lens is needed."
+  },
+  {
+   "id": "Q036",
+   "concept": "C18",
+   "difficulty": 3,
+   "stem": "A hypermetropic eye has a near point of 50 cm. The power of the correcting lens for a 25 cm near point is:",
+   "options": [
+    {
+     "text": "+2 D",
+     "correct": true
+    },
+    {
+     "text": "-2 D",
+     "misconception": "M_MYOPIA_CONVEX"
+    },
+    {
+     "text": "+0.02 D",
+     "misconception": "M_POWER_IN_CM"
+    },
+    {
+     "text": "+4 D"
+    }
+   ],
+   "explanation": "With u = -25 cm and v = -50 cm, 1/f = 1/v - 1/u gives f = +50 cm, so P = +2 D."
+  },
+  {
+   "id": "Q037",
+   "concept": "C19",
+   "difficulty": 1,
+   "stem": "White light passed through a prism splits into colours because:",
+   "options": [
+    {
+     "text": "Different wavelengths are refracted through different angles",
+     "correct": true
+    },
+    {
+     "text": "The prism adds colour to the white light",
+     "misconception": "M_DISPERSION_IS_COLOURING"
+    },
+    {
+     "text": "The glass reflects each colour separately",
+     "misconception": "M_REFRACT_IS_REFLECT"
+    },
+    {
+     "text": "White light has no colour until it meets glass",
+     "misconception": "M_DISPERSION_IS_COLOURING"
+    }
+   ],
+   "explanation": "White light is already composite; the prism separates components because refractive index varies with wavelength."
+  },
+  {
+   "id": "Q038",
+   "concept": "C19",
+   "difficulty": 2,
+   "stem": "In the visible spectrum produced by a prism, which colour deviates most?",
+   "options": [
+    {
+     "text": "Violet",
+     "correct": true
+    },
+    {
+     "text": "Red"
+    },
+    {
+     "text": "Green"
+    },
+    {
+     "text": "All deviate equally",
+     "misconception": "M_DISPERSION_IS_COLOURING"
+    }
+   ],
+   "explanation": "Violet has the shortest wavelength and the largest refractive index, so it bends most."
+  },
+  {
+   "id": "Q039",
+   "concept": "C20",
+   "difficulty": 2,
+   "stem": "Stars appear to twinkle but planets generally do not. Why?",
+   "options": [
+    {
+     "text": "Stars are point sources, so varying atmospheric refraction changes their apparent brightness",
+     "correct": true
+    },
+    {
+     "text": "Stars physically pulse in brightness",
+     "misconception": "M_TWINKLE_STAR_VARIES"
+    },
+    {
+     "text": "Planets are much hotter than stars"
+    },
+    {
+     "text": "Planets emit a steadier kind of light"
+    }
+   ],
+   "explanation": "Planets are extended sources whose many points average out the fluctuations."
+  },
+  {
+   "id": "Q040",
+   "concept": "C20",
+   "difficulty": 3,
+   "stem": "The sun is visible about two minutes before actual sunrise because:",
+   "options": [
+    {
+     "text": "Atmospheric refraction bends sunlight, raising the sun's apparent position",
+     "correct": true
+    },
+    {
+     "text": "The sun physically rises earlier than calculated"
+    },
+    {
+     "text": "Sunlight is reflected off high clouds",
+     "misconception": "M_REFRACT_IS_REFLECT"
+    },
+    {
+     "text": "Light travels faster through the upper atmosphere",
+     "misconception": "M_SPEED_CONSTANT_ALL_MEDIA"
+    }
+   ],
+   "explanation": "Increasing air density toward the ground bends rays, so the sun appears higher than it is."
+  },
+  {
+   "id": "Q041",
+   "concept": "C21",
+   "difficulty": 1,
+   "stem": "The sky appears blue mainly because:",
+   "options": [
+    {
+     "text": "Shorter wavelengths are scattered more strongly by air molecules",
+     "correct": true
+    },
+    {
+     "text": "The sky reflects the colour of the oceans",
+     "misconception": "M_SKY_REFLECTS_SEA"
+    },
+    {
+     "text": "Air molecules emit blue light"
+    },
+    {
+     "text": "Blue light travels fastest through air",
+     "misconception": "M_SPEED_CONSTANT_ALL_MEDIA"
+    }
+   ],
+   "explanation": "Scattering grows sharply as wavelength falls, so blue dominates the scattered sky light."
+  },
+  {
+   "id": "Q042",
+   "concept": "C21",
+   "difficulty": 2,
+   "stem": "The sun looks reddish at sunrise and sunset because:",
+   "options": [
+    {
+     "text": "Light travels a longer path, so most blue is scattered away",
+     "correct": true
+    },
+    {
+     "text": "The sun is cooler at those times"
+    },
+    {
+     "text": "The atmosphere reflects red light back",
+     "misconception": "M_SKY_REFLECTS_SEA"
+    },
+    {
+     "text": "Red light is scattered most near the horizon"
+    }
+   ],
+   "explanation": "The long slant path removes short wavelengths, leaving the transmitted light red."
+  },
+  {
+   "id": "Q043",
+   "concept": "C22",
+   "difficulty": 1,
+   "stem": "A charge of 6 C flows past a point in 2 s. The current is:",
+   "options": [
+    {
+     "text": "3 A",
+     "correct": true
+    },
+    {
+     "text": "12 A"
+    },
+    {
+     "text": "0.33 A"
+    },
+    {
+     "text": "3 A entering and 1.5 A leaving the bulb",
+     "misconception": "M_CURRENT_CONSUMED"
+    }
+   ],
+   "explanation": "I = Q/t = 6/2 = 3 A."
+  },
+  {
+   "id": "Q044",
+   "concept": "C22",
+   "difficulty": 2,
+   "stem": "In a simple series circuit with one bulb, how does the current just before the bulb compare with the current just after it?",
+   "options": [
+    {
+     "text": "They are equal, because charge is conserved",
+     "correct": true
+    },
+    {
+     "text": "It is smaller after, because the bulb uses up current",
+     "misconception": "M_CURRENT_CONSUMED"
+    },
+    {
+     "text": "It is larger after, because the bulb heats the charges"
+    },
+    {
+     "text": "There is no current after the bulb",
+     "misconception": "M_CURRENT_CONSUMED"
+    }
+   ],
+   "explanation": "The bulb transfers energy, not charge; current is the same throughout a series loop."
+  },
+  {
+   "id": "Q045",
+   "concept": "C23",
+   "difficulty": 2,
+   "stem": "The potential difference across a component is defined as:",
+   "options": [
+    {
+     "text": "Work done per unit charge in moving charge between two points",
+     "correct": true
+    },
+    {
+     "text": "The amount of current used up in the component",
+     "misconception": "M_CURRENT_CONSUMED"
+    },
+    {
+     "text": "The total charge stored in the component"
+    },
+    {
+     "text": "The resistance divided by the current"
+    }
+   ],
+   "explanation": "V = W/Q, measured in volts (joules per coulomb)."
+  },
+  {
+   "id": "Q046",
+   "concept": "C23",
+   "difficulty": 1,
+   "stem": "Moving 10 C between two points takes 60 J of work. The potential difference is:",
+   "options": [
+    {
+     "text": "6 V",
+     "correct": true
+    },
+    {
+     "text": "600 V"
+    },
+    {
+     "text": "0.17 V"
+    },
+    {
+     "text": "70 V"
+    }
+   ],
+   "explanation": "V = W/Q = 60/10 = 6 V."
+  },
+  {
+   "id": "Q047",
+   "concept": "C24",
+   "difficulty": 1,
+   "stem": "A 12 V supply drives 3 A through a resistor. Its resistance is:",
+   "options": [
+    {
+     "text": "4 ohm",
+     "correct": true
+    },
+    {
+     "text": "36 ohm"
+    },
+    {
+     "text": "0.25 ohm"
+    },
+    {
+     "text": "15 ohm"
+    }
+   ],
+   "explanation": "R = V/I = 12/3 = 4 ohm."
+  },
+  {
+   "id": "Q048",
+   "concept": "C24",
+   "difficulty": 2,
+   "stem": "A graph of V against I for an ohmic conductor at constant temperature is:",
+   "options": [
+    {
+     "text": "A straight line through the origin whose slope is the resistance",
+     "correct": true
+    },
+    {
+     "text": "A curve bending toward the I axis"
+    },
+    {
+     "text": "A horizontal straight line"
+    },
+    {
+     "text": "A straight line whose slope is the current"
+    }
+   ],
+   "explanation": "Ohm's law gives V proportional to I, so the slope V/I is the resistance."
+  },
+  {
+   "id": "Q049",
+   "concept": "C25",
+   "difficulty": 2,
+   "stem": "A uniform wire is replaced by one of the same material and length but twice the cross-sectional area. Its resistance:",
+   "options": [
+    {
+     "text": "Halves",
+     "correct": true
+    },
+    {
+     "text": "Doubles",
+     "misconception": "M_THICK_WIRE_MORE_R"
+    },
+    {
+     "text": "Stays the same"
+    },
+    {
+     "text": "Quadruples",
+     "misconception": "M_THICK_WIRE_MORE_R"
+    }
+   ],
+   "explanation": "R = rho L / A, so resistance is inversely proportional to area."
+  },
+  {
+   "id": "Q050",
+   "concept": "C25",
+   "difficulty": 3,
+   "stem": "A wire is stretched so its length doubles while its volume stays constant. Its new resistance is:",
+   "options": [
+    {
+     "text": "Four times the original",
+     "correct": true
+    },
+    {
+     "text": "Twice the original"
+    },
+    {
+     "text": "Half the original",
+     "misconception": "M_THICK_WIRE_MORE_R"
+    },
+    {
+     "text": "Unchanged, since resistivity is unchanged",
+     "misconception": "M_RESISTIVITY_DEPENDS_GEOMETRY"
+    }
+   ],
+   "explanation": "Doubling L halves A at constant volume, and R = rho L/A, so R rises by a factor of 4."
+  },
+  {
+   "id": "Q051",
+   "concept": "C26",
+   "difficulty": 1,
+   "stem": "Resistors of 2 ohm, 3 ohm and 5 ohm are joined in series. The equivalent resistance is:",
+   "options": [
+    {
+     "text": "10 ohm",
+     "correct": true
+    },
+    {
+     "text": "0.97 ohm"
+    },
+    {
+     "text": "1.03 ohm"
+    },
+    {
+     "text": "3.33 ohm"
+    }
+   ],
+   "explanation": "In series resistances add directly."
+  },
+  {
+   "id": "Q052",
+   "concept": "C26",
+   "difficulty": 2,
+   "stem": "Three unequal resistors are in series across a battery. Which quantity is the same for all three?",
+   "options": [
+    {
+     "text": "The current",
+     "correct": true
+    },
+    {
+     "text": "The potential difference",
+     "misconception": "M_VOLTAGE_DIVIDES_PARALLEL"
+    },
+    {
+     "text": "The power dissipated"
+    },
+    {
+     "text": "Both current and potential difference"
+    }
+   ],
+   "explanation": "Series means one path, so current is common and the supply voltage divides in proportion to resistance."
+  },
+  {
+   "id": "Q053",
+   "concept": "C27",
+   "difficulty": 2,
+   "stem": "A 6 ohm and a 3 ohm resistor are connected in parallel. The equivalent resistance is:",
+   "options": [
+    {
+     "text": "2 ohm",
+     "correct": true
+    },
+    {
+     "text": "9 ohm",
+     "misconception": "M_PARALLEL_ADDS"
+    },
+    {
+     "text": "4.5 ohm"
+    },
+    {
+     "text": "18 ohm"
+    }
+   ],
+   "explanation": "1/R = 1/6 + 1/3 = 1/2, so R = 2 ohm, less than the smaller resistor."
+  },
+  {
+   "id": "Q054",
+   "concept": "C27",
+   "difficulty": 3,
+   "stem": "Two unequal resistors are in parallel across a 12 V battery. Which statement is correct?",
+   "options": [
+    {
+     "text": "Each has 12 V across it, and the smaller resistor carries the larger current",
+     "correct": true
+    },
+    {
+     "text": "Each carries the same current, and the voltage divides between them",
+     "misconception": "M_CURRENT_SAME_PARALLEL"
+    },
+    {
+     "text": "The voltage divides in proportion to resistance",
+     "misconception": "M_VOLTAGE_DIVIDES_PARALLEL"
+    },
+    {
+     "text": "The total resistance is the sum of the two",
+     "misconception": "M_PARALLEL_ADDS"
+    }
+   ],
+   "explanation": "Parallel branches share the same potential difference; current divides inversely with resistance."
+  },
+  {
+   "id": "Q055",
+   "concept": "C28",
+   "difficulty": 2,
+   "stem": "The current through a fixed resistor is doubled. The heat produced in the same time becomes:",
+   "options": [
+    {
+     "text": "Four times as much",
+     "correct": true
+    },
+    {
+     "text": "Twice as much",
+     "misconception": "M_HEAT_LINEAR_IN_I"
+    },
+    {
+     "text": "Half as much"
+    },
+    {
+     "text": "Unchanged"
+    }
+   ],
+   "explanation": "H = I squared R t, so heat scales with the square of the current."
+  },
+  {
+   "id": "Q056",
+   "concept": "C28",
+   "difficulty": 1,
+   "stem": "Why is tungsten used for the filament of an incandescent lamp?",
+   "options": [
+    {
+     "text": "High resistivity and a very high melting point",
+     "correct": true
+    },
+    {
+     "text": "Low resistivity so it heats quickly"
+    },
+    {
+     "text": "It conducts heat away rapidly"
+    },
+    {
+     "text": "Its resistivity falls as it is drawn thinner",
+     "misconception": "M_RESISTIVITY_DEPENDS_GEOMETRY"
+    }
+   ],
+   "explanation": "The filament must glow without melting, so high resistivity and a melting point above 3000 C are needed."
+  },
+  {
+   "id": "Q057",
+   "concept": "C29",
+   "difficulty": 2,
+   "stem": "A bulb is marked 100 W, 220 V. The current it draws at rated voltage is about:",
+   "options": [
+    {
+     "text": "0.45 A",
+     "correct": true
+    },
+    {
+     "text": "2.2 A",
+     "misconception": "M_POWER_V_OVER_I"
+    },
+    {
+     "text": "22000 A"
+    },
+    {
+     "text": "4.84 A"
+    }
+   ],
+   "explanation": "P = VI, so I = 100/220, which is about 0.45 A."
+  },
+  {
+   "id": "Q058",
+   "concept": "C29",
+   "difficulty": 3,
+   "stem": "A 1000 W heater runs for 2 hours daily. The energy used in 30 days is:",
+   "options": [
+    {
+     "text": "60 kWh",
+     "correct": true
+    },
+    {
+     "text": "60000 kWh"
+    },
+    {
+     "text": "2 kWh"
+    },
+    {
+     "text": "0.06 kWh"
+    }
+   ],
+   "explanation": "1 kW x 2 h x 30 = 60 kWh, the commercial unit of electrical energy."
+  },
+  {
+   "id": "Q059",
+   "concept": "C30",
+   "difficulty": 1,
+   "stem": "Why can two magnetic field lines never intersect?",
+   "options": [
+    {
+     "text": "The field would then have two directions at one point, which is impossible",
+     "correct": true
+    },
+    {
+     "text": "They repel because both carry north poles",
+     "misconception": "M_FIELD_LINES_CROSS"
+    },
+    {
+     "text": "They can intersect at the poles",
+     "misconception": "M_FIELD_LINES_CROSS"
+    },
+    {
+     "text": "Intersections only occur inside the magnet"
+    }
+   ],
+   "explanation": "The tangent gives the unique field direction, so crossing lines are impossible."
+  },
+  {
+   "id": "Q060",
+   "concept": "C30",
+   "difficulty": 2,
+   "stem": "Outside a bar magnet, field lines run from north to south. Inside the magnet they:",
+   "options": [
+    {
+     "text": "Run from south to north, completing closed loops",
+     "correct": true
+    },
+    {
+     "text": "Stop at the poles and do not continue",
+     "misconception": "M_LINES_NOT_CLOSED"
+    },
+    {
+     "text": "Also run from north to south"
+    },
+    {
+     "text": "Are absent, since the field exists only outside",
+     "misconception": "M_LINES_NOT_CLOSED"
+    }
+   ],
+   "explanation": "Magnetic field lines are continuous closed curves."
+  },
+  {
+   "id": "Q061",
+   "concept": "C31",
+   "difficulty": 2,
+   "stem": "A straight wire carries current vertically upward. The magnetic field around it is:",
+   "options": [
+    {
+     "text": "Concentric circles in a horizontal plane, given by the right-hand thumb rule",
+     "correct": true
+    },
+    {
+     "text": "Straight lines parallel to the wire"
+    },
+    {
+     "text": "Circles that cross one another near the wire",
+     "misconception": "M_FIELD_LINES_CROSS"
+    },
+    {
+     "text": "Radial lines pointing away from the wire"
+    }
+   ],
+   "explanation": "Point the right thumb along the current; the curled fingers give the circular field direction."
+  },
+  {
+   "id": "Q062",
+   "concept": "C31",
+   "difficulty": 3,
+   "stem": "The current in a straight conductor is doubled and the distance from it is also doubled. The magnetic field strength at that point:",
+   "options": [
+    {
+     "text": "Stays the same",
+     "correct": true
+    },
+    {
+     "text": "Doubles"
+    },
+    {
+     "text": "Quadruples"
+    },
+    {
+     "text": "Becomes one quarter"
+    }
+   ],
+   "explanation": "B is proportional to I and inversely proportional to r, so the two changes cancel."
+  },
+  {
+   "id": "Q063",
+   "concept": "C32",
+   "difficulty": 2,
+   "stem": "The field inside a long current-carrying solenoid is:",
+   "options": [
+    {
+     "text": "Uniform and parallel to the axis, like that of a bar magnet",
+     "correct": true
+    },
+    {
+     "text": "Zero everywhere inside",
+     "misconception": "M_LINES_NOT_CLOSED"
+    },
+    {
+     "text": "Circular around the axis"
+    },
+    {
+     "text": "Strongest at the exact centre and zero at the ends"
+    }
+   ],
+   "explanation": "A solenoid produces a nearly uniform axial interior field and behaves externally like a bar magnet."
+  },
+  {
+   "id": "Q064",
+   "concept": "C32",
+   "difficulty": 1,
+   "stem": "Placing a soft iron core inside a solenoid produces an electromagnet because the core:",
+   "options": [
+    {
+     "text": "Becomes strongly magnetised and intensifies the field",
+     "correct": true
+    },
+    {
+     "text": "Increases the current in the coil"
+    },
+    {
+     "text": "Prevents the field lines from closing",
+     "misconception": "M_LINES_NOT_CLOSED"
+    },
+    {
+     "text": "Stores charge for later release"
+    }
+   ],
+   "explanation": "Soft iron magnetises readily and loses magnetism when current stops, which is what an electromagnet needs."
+  },
+  {
+   "id": "Q065",
+   "concept": "C33",
+   "difficulty": 2,
+   "stem": "Which rule gives the direction of force on a current-carrying conductor in a magnetic field?",
+   "options": [
+    {
+     "text": "Fleming's left-hand rule",
+     "correct": true
+    },
+    {
+     "text": "Fleming's right-hand rule",
+     "misconception": "M_FLEMING_SWAPPED"
+    },
+    {
+     "text": "The right-hand thumb rule"
+    },
+    {
+     "text": "Lenz's law"
+    }
+   ],
+   "explanation": "Left hand for the motor effect; right hand is for induced current in a generator."
+  },
+  {
+   "id": "Q066",
+   "concept": "C33",
+   "difficulty": 3,
+   "stem": "A conductor carries current parallel to a uniform magnetic field. The force on it is:",
+   "options": [
+    {
+     "text": "Zero",
+     "correct": true
+    },
+    {
+     "text": "Maximum, given by the left-hand rule"
+    },
+    {
+     "text": "Maximum, given by the right-hand rule",
+     "misconception": "M_FLEMING_SWAPPED"
+    },
+    {
+     "text": "Directed along the current"
+    }
+   ],
+   "explanation": "Force is greatest when current is perpendicular to the field and zero when parallel to it."
+  },
+  {
+   "id": "Q067",
+   "concept": "C34",
+   "difficulty": 2,
+   "stem": "A bar magnet is pushed into a closed coil that contains no battery. What happens?",
+   "options": [
+    {
+     "text": "A current is induced while the magnet is moving",
+     "correct": true
+    },
+    {
+     "text": "Nothing, because the coil has no source of emf",
+     "misconception": "M_INDUCTION_NEEDS_BATTERY"
+    },
+    {
+     "text": "A steady current flows even after the magnet stops"
+    },
+    {
+     "text": "The coil becomes permanently magnetised"
+    }
+   ],
+   "explanation": "A changing magnetic flux induces a current; relative motion, not a battery, is what is required."
+  },
+  {
+   "id": "Q068",
+   "concept": "C34",
+   "difficulty": 3,
+   "stem": "In an AC generator, the direction of the induced current is found using:",
+   "options": [
+    {
+     "text": "Fleming's right-hand rule",
+     "correct": true
+    },
+    {
+     "text": "Fleming's left-hand rule",
+     "misconception": "M_FLEMING_SWAPPED"
+    },
+    {
+     "text": "The right-hand thumb rule for a straight conductor"
+    },
+    {
+     "text": "The sign convention for mirrors"
+    }
+   ],
+   "explanation": "Generators use the right-hand rule; motors use the left."
+  },
+  {
+   "id": "Q069",
+   "concept": "C35",
+   "difficulty": 2,
+   "stem": "In a domestic circuit, the earth wire:",
+   "options": [
+    {
+     "text": "Provides a low-resistance path to the ground if a fault makes the appliance casing live",
+     "correct": true
+    },
+    {
+     "text": "Carries the return current during normal operation",
+     "misconception": "M_EARTH_WIRE_CARRIES"
+    },
+    {
+     "text": "Supplies the appliance with current",
+     "misconception": "M_EARTH_WIRE_CARRIES"
+    },
+    {
+     "text": "Replaces the need for a fuse"
+    }
+   ],
+   "explanation": "The neutral wire carries the return current; the earth wire is a safety path used only on a fault."
+  },
+  {
+   "id": "Q070",
+   "concept": "C35",
+   "difficulty": 3,
+   "stem": "A fuse is connected in the live wire because:",
+   "options": [
+    {
+     "text": "It must break the live connection to isolate the appliance on overload",
+     "correct": true
+    },
+    {
+     "text": "The live wire carries less current than the neutral"
+    },
+    {
+     "text": "Fuses only work at earth potential",
+     "misconception": "M_EARTH_WIRE_CARRIES"
+    },
+    {
+     "text": "It increases the current to blow faster",
+     "misconception": "M_HEAT_LINEAR_IN_I"
+    }
+   ],
+   "explanation": "A fuse in the neutral would cut the return path but leave the appliance live, which is dangerous."
+  },
+  {
+   "id": "Q071",
+   "concept": "C36",
+   "difficulty": 1,
+   "stem": "Which of these is a conventional source of energy?",
+   "options": [
+    {
+     "text": "Coal",
+     "correct": true
+    },
+    {
+     "text": "Solar cell"
+    },
+    {
+     "text": "Wind turbine"
+    },
+    {
+     "text": "Biogas plant"
+    }
+   ],
+   "explanation": "Fossil fuels and large hydro are the conventional sources; the rest are non-conventional."
+  },
+  {
+   "id": "Q072",
+   "concept": "C36",
+   "difficulty": 2,
+   "stem": "A thermal power plant is usually sited near a coalfield rather than near the consumer because:",
+   "options": [
+    {
+     "text": "Transmitting electricity is more efficient than transporting bulk coal",
+     "correct": true
+    },
+    {
+     "text": "Coal burns better at the mine"
+    },
+    {
+     "text": "Electricity cannot be transmitted over long distances"
+    },
+    {
+     "text": "It avoids all environmental impact",
+     "misconception": "M_SOLAR_ZERO_IMPACT"
+    }
+   ],
+   "explanation": "Moving energy as electricity costs less than hauling large masses of fuel."
+  },
+  {
+   "id": "Q073",
+   "concept": "C37",
+   "difficulty": 2,
+   "stem": "Which statement about nuclear energy is correct?",
+   "options": [
+    {
+     "text": "It is non-renewable, since uranium reserves are finite",
+     "correct": true
+    },
+    {
+     "text": "It is renewable, because the reaction sustains itself",
+     "misconception": "M_NUCLEAR_RENEWABLE"
+    },
+    {
+     "text": "It produces no waste requiring long-term storage"
+    },
+    {
+     "text": "It is a conventional source with zero environmental cost",
+     "misconception": "M_SOLAR_ZERO_IMPACT"
+    }
+   ],
+   "explanation": "Nuclear fuel is exhaustible and the waste stays hazardous for a very long time."
+  },
+  {
+   "id": "Q074",
+   "concept": "C37",
+   "difficulty": 3,
+   "stem": "Which is the most accurate statement about solar cells?",
+   "options": [
+    {
+     "text": "Generation is clean, but manufacture uses energy and special materials",
+     "correct": true
+    },
+    {
+     "text": "They have no environmental cost at any stage",
+     "misconception": "M_SOLAR_ZERO_IMPACT"
+    },
+    {
+     "text": "They work equally well at night"
+    },
+    {
+     "text": "They are classed as a conventional source",
+     "misconception": "M_NUCLEAR_RENEWABLE"
+    }
+   ],
+   "explanation": "Solar is renewable with clean operation, but silicon processing and silver contacts carry real costs."
+  }
+ ]
+}

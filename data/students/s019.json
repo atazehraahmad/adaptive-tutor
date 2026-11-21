@@ -1,0 +1,1215 @@
+{
+ "id": "s019",
+ "name": "Leela Verma",
+ "section": "10-B",
+ "synthetic": true,
+ "model": {
+  "mastery": {
+   "C01": 0.7861163876273137,
+   "C02": 0.8841186968014791,
+   "C03": 0.8766550750100945,
+   "C04": 0.8766550750100945,
+   "C05": 0.9545324411818188,
+   "C06": 0.7800243014010515,
+   "C07": 0.8932409012131716,
+   "C08": 0.8415776206535956,
+   "C09": 0.8177890962001741,
+   "C10": 0.9086545513335268,
+   "C11": 0.9467518860016766,
+   "C12": 0.9178527652835585,
+   "C13": 0.7800243014010515,
+   "C14": 0.8666936682233906,
+   "C15": 0.9629929646926562,
+   "C16": 0.9290246413716241,
+   "C17": 0.9292564540541338,
+   "C18": 0.7813150293407415,
+   "C19": 0.6090523449835296,
+   "C20": 0.9174044052989669,
+   "C21": 0.1815763621613563,
+   "C22": 0.8636525147220074,
+   "C23": 0.8394438348656005,
+   "C24": 0.8520766974015089,
+   "C25": 0.9467518860016766,
+   "C26": 0.7602384448096009,
+   "C27": 0.8447093831217787,
+   "C28": 0.8932409012131716,
+   "C29": 0.9467518860016766,
+   "C30": 0.7642983319903255,
+   "C31": 0.8492203688781395,
+   "C32": 0.8882368925067315,
+   "C33": 0.9435781876423771,
+   "C34": 0.945653623687794,
+   "C35": 0.9385659812464208,
+   "C36": 0.8256639647690702,
+   "C37": 0.9174044052989669
+  },
+  "attempts": {
+   "C01": 2,
+   "C02": 2,
+   "C03": 2,
+   "C04": 2,
+   "C05": 2,
+   "C06": 1,
+   "C07": 2,
+   "C08": 2,
+   "C09": 2,
+   "C10": 3,
+   "C11": 2,
+   "C12": 3,
+   "C13": 1,
+   "C14": 1,
+   "C15": 3,
+   "C16": 4,
+   "C17": 3,
+   "C18": 3,
+   "C19": 3,
+   "C20": 3,
+   "C21": 5,
+   "C22": 2,
+   "C23": 2,
+   "C24": 1,
+   "C25": 2,
+   "C26": 2,
+   "C27": 3,
+   "C28": 2,
+   "C29": 2,
+   "C30": 2,
+   "C31": 1,
+   "C32": 2,
+   "C33": 2,
+   "C34": 2,
+   "C35": 2,
+   "C36": 2,
+   "C37": 3
+  }
+ },
+ "misconceptions": {
+  "M_FIELD_LINES_CROSS": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_EYE_EMITS": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_CURRENT_CONSUMED": {
+   "hits": 0.0,
+   "opportunities": 3.0,
+   "last_source": ""
+  },
+  "M_REFRACT_IS_REFLECT": {
+   "hits": 0.0,
+   "opportunities": 9.0,
+   "last_source": ""
+  },
+  "M_IMG_ON_SURFACE": {
+   "hits": 0.0,
+   "opportunities": 4.0,
+   "last_source": ""
+  },
+  "M_F_EQUALS_R": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_SPEED_CONSTANT_ALL_MEDIA": {
+   "hits": 0.0,
+   "opportunities": 8.0,
+   "last_source": ""
+  },
+  "M_CONCAVE_ALWAYS_REAL": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_NO_SIGN_CONVENTION": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_CONVEX_LENS_ALWAYS_MAGNIFIES": {
+   "hits": 0.0,
+   "opportunities": 3.0,
+   "last_source": ""
+  },
+  "M_RESISTIVITY_DEPENDS_GEOMETRY": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_RI_HAS_UNITS": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_BEND_AWAY_DENSER": {
+   "hits": 0.0,
+   "opportunities": 5.0,
+   "last_source": ""
+  },
+  "M_DISPERSION_IS_COLOURING": {
+   "hits": 0.0,
+   "opportunities": 3.0,
+   "last_source": ""
+  },
+  "M_FLEMING_SWAPPED": {
+   "hits": 0.0,
+   "opportunities": 3.0,
+   "last_source": ""
+  },
+  "M_POWER_V_OVER_I": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_SOLAR_ZERO_IMPACT": {
+   "hits": 1.0,
+   "opportunities": 4.0,
+   "last_source": "distractor"
+  },
+  "M_NUCLEAR_RENEWABLE": {
+   "hits": 0.0,
+   "opportunities": 3.0,
+   "last_source": ""
+  },
+  "M_POWER_IN_CM": {
+   "hits": 0.0,
+   "opportunities": 4.0,
+   "last_source": ""
+  },
+  "M_PARALLEL_ADDS": {
+   "hits": 0.0,
+   "opportunities": 3.0,
+   "last_source": ""
+  },
+  "M_LINES_NOT_CLOSED": {
+   "hits": 1.0,
+   "opportunities": 3.0,
+   "last_source": "distractor"
+  },
+  "M_INDUCTION_NEEDS_BATTERY": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_TWINKLE_STAR_VARIES": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_SKY_REFLECTS_SEA": {
+   "hits": 0.0,
+   "opportunities": 5.0,
+   "last_source": ""
+  },
+  "M_THICK_WIRE_MORE_R": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_EARTH_WIRE_CARRIES": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_NEG_M_MEANS_SMALL": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_MYOPIA_CONVEX": {
+   "hits": 0.0,
+   "opportunities": 3.0,
+   "last_source": ""
+  },
+  "M_VOLTAGE_DIVIDES_PARALLEL": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_HEAT_LINEAR_IN_I": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_LENS_MOVES_TO_FOCUS": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_CURRENT_SAME_PARALLEL": {
+   "hits": 1.0,
+   "opportunities": 1.0,
+   "last_source": "distractor"
+  }
+ },
+ "schedule": {
+  "C30": {
+   "concept": "C30",
+   "ease": 1.650437573562698,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 1,
+   "due": "2026-11-11"
+  },
+  "C36": {
+   "concept": "C36",
+   "ease": 2.390687094190347,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-09"
+  },
+  "C01": {
+   "concept": "C01",
+   "ease": 2.4032470439824776,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-11"
+  },
+  "C22": {
+   "concept": "C22",
+   "ease": 2.405206743780205,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-11"
+  },
+  "C23": {
+   "concept": "C23",
+   "ease": 2.405206743780205,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-12"
+  },
+  "C02": {
+   "concept": "C02",
+   "ease": 2.405206743780205,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-11"
+  },
+  "C03": {
+   "concept": "C03",
+   "ease": 2.405206743780205,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-13"
+  },
+  "C04": {
+   "concept": "C04",
+   "ease": 2.405206743780205,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-13"
+  },
+  "C08": {
+   "concept": "C08",
+   "ease": 2.408713677153509,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-20"
+  },
+  "C05": {
+   "concept": "C05",
+   "ease": 2.4295058773251097,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-23"
+  },
+  "C12": {
+   "concept": "C12",
+   "ease": 2.49152333277185,
+   "interval": 14,
+   "reps": 3,
+   "lapses": 0,
+   "due": "2026-12-02"
+  },
+  "C06": {
+   "concept": "C06",
+   "ease": 2.3369460706484095,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-10-30"
+  },
+  "C31": {
+   "concept": "C31",
+   "ease": 2.3369460706484095,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-10-31"
+  },
+  "C24": {
+   "concept": "C24",
+   "ease": 2.3232,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-10-31"
+  },
+  "C13": {
+   "concept": "C13",
+   "ease": 2.3369460706484095,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-10-31"
+  },
+  "C16": {
+   "concept": "C16",
+   "ease": 1.7765585296344528,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 1,
+   "due": "2026-11-23"
+  },
+  "C28": {
+   "concept": "C28",
+   "ease": 2.405206743780205,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-16"
+  },
+  "C26": {
+   "concept": "C26",
+   "ease": 2.405206743780205,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-15"
+  },
+  "C09": {
+   "concept": "C09",
+   "ease": 2.398110524467797,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-12"
+  },
+  "C10": {
+   "concept": "C10",
+   "ease": 2.504175592187972,
+   "interval": 14,
+   "reps": 3,
+   "lapses": 0,
+   "due": "2026-12-04"
+  },
+  "C14": {
+   "concept": "C14",
+   "ease": 2.3369460706484095,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-11-02"
+  },
+  "C17": {
+   "concept": "C17",
+   "ease": 2.490866465039117,
+   "interval": 14,
+   "reps": 3,
+   "lapses": 0,
+   "due": "2026-12-04"
+  },
+  "C19": {
+   "concept": "C19",
+   "ease": 2.476518645731404,
+   "interval": 13,
+   "reps": 3,
+   "lapses": 0,
+   "due": "2026-12-02"
+  },
+  "C33": {
+   "concept": "C33",
+   "ease": 2.4276639069984123,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-17"
+  },
+  "C29": {
+   "concept": "C29",
+   "ease": 2.4281995434771275,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-21"
+  },
+  "C37": {
+   "concept": "C37",
+   "ease": 1.694856213205996,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 1,
+   "due": "2026-11-25"
+  },
+  "C15": {
+   "concept": "C15",
+   "ease": 2.5058369261363533,
+   "interval": 14,
+   "reps": 3,
+   "lapses": 0,
+   "due": "2026-12-05"
+  },
+  "C27": {
+   "concept": "C27",
+   "ease": 1.7591875091525175,
+   "interval": 3,
+   "reps": 1,
+   "lapses": 1,
+   "due": "2026-11-19"
+  },
+  "C32": {
+   "concept": "C32",
+   "ease": 2.404318623425353,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-15"
+  },
+  "C34": {
+   "concept": "C34",
+   "ease": 2.428014368148995,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-18"
+  },
+  "C11": {
+   "concept": "C11",
+   "ease": 2.4281995434771275,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-21"
+  },
+  "C20": {
+   "concept": "C20",
+   "ease": 1.694856213205996,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 1,
+   "due": "2026-11-22"
+  },
+  "C21": {
+   "concept": "C21",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 3,
+   "due": "2026-11-21"
+  },
+  "C25": {
+   "concept": "C25",
+   "ease": 2.4281995434771275,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-19"
+  },
+  "C35": {
+   "concept": "C35",
+   "ease": 2.4268146965550197,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-21"
+  },
+  "C07": {
+   "concept": "C07",
+   "ease": 2.405206743780205,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-16"
+  },
+  "C18": {
+   "concept": "C18",
+   "ease": 1.7531994075115738,
+   "interval": 3,
+   "reps": 1,
+   "lapses": 1,
+   "due": "2026-11-18"
+  }
+ },
+ "history": [
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-25"
+  },
+  {
+   "q": "Q071",
+   "concept": "C36",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-25"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-25"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-26"
+  },
+  {
+   "q": "Q046",
+   "concept": "C23",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-26"
+  },
+  {
+   "q": "Q003",
+   "concept": "C02",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-26"
+  },
+  {
+   "q": "Q005",
+   "concept": "C03",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-27"
+  },
+  {
+   "q": "Q007",
+   "concept": "C04",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-27"
+  },
+  {
+   "q": "Q015",
+   "concept": "C08",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-27"
+  },
+  {
+   "q": "Q009",
+   "concept": "C05",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-28"
+  },
+  {
+   "q": "Q023",
+   "concept": "C12",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-28"
+  },
+  {
+   "q": "Q011",
+   "concept": "C06",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-28"
+  },
+  {
+   "q": "Q061",
+   "concept": "C31",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-29"
+  },
+  {
+   "q": "Q047",
+   "concept": "C24",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-29"
+  },
+  {
+   "q": "Q025",
+   "concept": "C13",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-29"
+  },
+  {
+   "q": "Q031",
+   "concept": "C16",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-30"
+  },
+  {
+   "q": "Q056",
+   "concept": "C28",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-30"
+  },
+  {
+   "q": "Q051",
+   "concept": "C26",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-30"
+  },
+  {
+   "q": "Q018",
+   "concept": "C09",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-31"
+  },
+  {
+   "q": "Q019",
+   "concept": "C10",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-31"
+  },
+  {
+   "q": "Q027",
+   "concept": "C14",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-31"
+  },
+  {
+   "q": "Q034",
+   "concept": "C17",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-01"
+  },
+  {
+   "q": "Q037",
+   "concept": "C19",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-01"
+  },
+  {
+   "q": "Q065",
+   "concept": "C33",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-01"
+  },
+  {
+   "q": "Q057",
+   "concept": "C29",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-02"
+  },
+  {
+   "q": "Q073",
+   "concept": "C37",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_SOLAR_ZERO_IMPACT",
+   "date": "2026-11-02"
+  },
+  {
+   "q": "Q029",
+   "concept": "C15",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-02"
+  },
+  {
+   "q": "Q053",
+   "concept": "C27",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-03"
+  },
+  {
+   "q": "Q064",
+   "concept": "C32",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-03"
+  },
+  {
+   "q": "Q067",
+   "concept": "C34",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-03"
+  },
+  {
+   "q": "Q021",
+   "concept": "C11",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-04"
+  },
+  {
+   "q": "Q039",
+   "concept": "C20",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-04"
+  },
+  {
+   "q": "Q041",
+   "concept": "C21",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-04"
+  },
+  {
+   "q": "Q049",
+   "concept": "C25",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-05"
+  },
+  {
+   "q": "Q069",
+   "concept": "C35",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-05"
+  },
+  {
+   "q": "Q072",
+   "concept": "C36",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-05"
+  },
+  {
+   "q": "Q014",
+   "concept": "C07",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-06"
+  },
+  {
+   "q": "Q074",
+   "concept": "C37",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-06"
+  },
+  {
+   "q": "Q035",
+   "concept": "C18",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-06"
+  },
+  {
+   "q": "Q002",
+   "concept": "C01",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-07"
+  },
+  {
+   "q": "Q044",
+   "concept": "C22",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-07"
+  },
+  {
+   "q": "Q004",
+   "concept": "C02",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-07"
+  },
+  {
+   "q": "Q045",
+   "concept": "C23",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-08"
+  },
+  {
+   "q": "Q017",
+   "concept": "C09",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-08"
+  },
+  {
+   "q": "Q020",
+   "concept": "C10",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-08"
+  },
+  {
+   "q": "Q008",
+   "concept": "C04",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-09"
+  },
+  {
+   "q": "Q024",
+   "concept": "C12",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-09"
+  },
+  {
+   "q": "Q006",
+   "concept": "C03",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-09"
+  },
+  {
+   "q": "Q040",
+   "concept": "C20",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-10"
+  },
+  {
+   "q": "Q060",
+   "concept": "C30",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_LINES_NOT_CLOSED",
+   "date": "2026-11-10"
+  },
+  {
+   "q": "Q032",
+   "concept": "C16",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-10"
+  },
+  {
+   "q": "Q052",
+   "concept": "C26",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-11"
+  },
+  {
+   "q": "Q063",
+   "concept": "C32",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-11"
+  },
+  {
+   "q": "Q038",
+   "concept": "C19",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-11"
+  },
+  {
+   "q": "Q055",
+   "concept": "C28",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-12"
+  },
+  {
+   "q": "Q031",
+   "concept": "C16",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-12"
+  },
+  {
+   "q": "Q013",
+   "concept": "C07",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-12"
+  },
+  {
+   "q": "Q030",
+   "concept": "C15",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-13"
+  },
+  {
+   "q": "Q066",
+   "concept": "C33",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-13"
+  },
+  {
+   "q": "Q033",
+   "concept": "C17",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-13"
+  },
+  {
+   "q": "Q036",
+   "concept": "C18",
+   "correct": false,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-14"
+  },
+  {
+   "q": "Q054",
+   "concept": "C27",
+   "correct": false,
+   "difficulty": 3,
+   "misconception": "M_CURRENT_SAME_PARALLEL",
+   "date": "2026-11-14"
+  },
+  {
+   "q": "Q068",
+   "concept": "C34",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-14"
+  },
+  {
+   "q": "Q050",
+   "concept": "C25",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-15"
+  },
+  {
+   "q": "Q042",
+   "concept": "C21",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-15"
+  },
+  {
+   "q": "Q035",
+   "concept": "C18",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-15"
+  },
+  {
+   "q": "Q053",
+   "concept": "C27",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-16"
+  },
+  {
+   "q": "Q016",
+   "concept": "C08",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-16"
+  },
+  {
+   "q": "Q041",
+   "concept": "C21",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-16"
+  },
+  {
+   "q": "Q058",
+   "concept": "C29",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-17"
+  },
+  {
+   "q": "Q070",
+   "concept": "C35",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-17"
+  },
+  {
+   "q": "Q022",
+   "concept": "C11",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-17"
+  },
+  {
+   "q": "Q039",
+   "concept": "C20",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-18"
+  },
+  {
+   "q": "Q042",
+   "concept": "C21",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-18"
+  },
+  {
+   "q": "Q024",
+   "concept": "C12",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-18"
+  },
+  {
+   "q": "Q037",
+   "concept": "C19",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-19"
+  },
+  {
+   "q": "Q010",
+   "concept": "C05",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-19"
+  },
+  {
+   "q": "Q032",
+   "concept": "C16",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-19"
+  },
+  {
+   "q": "Q033",
+   "concept": "C17",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-20"
+  },
+  {
+   "q": "Q041",
+   "concept": "C21",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-20"
+  },
+  {
+   "q": "Q019",
+   "concept": "C10",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-20"
+  },
+  {
+   "q": "Q073",
+   "concept": "C37",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-21"
+  },
+  {
+   "q": "Q030",
+   "concept": "C15",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-21"
+  }
+ ],
+ "held_misconceptions": [
+  "M_SOLAR_ZERO_IMPACT"
+ ]
+}

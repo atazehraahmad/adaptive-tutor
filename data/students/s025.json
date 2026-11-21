@@ -1,0 +1,897 @@
+{
+ "id": "s025",
+ "name": "Juhi Joshi",
+ "section": "10-B",
+ "synthetic": true,
+ "model": {
+  "mastery": {
+   "C01": 0.5808937230362785,
+   "C02": 0.5289202277407635,
+   "C03": 0.570839892963768,
+   "C04": 0.14924790448869343,
+   "C05": 0.17977243176179789,
+   "C06": 0.2233330812882961,
+   "C07": 0.2403964745273826,
+   "C08": 0.7387545216691181,
+   "C09": 0.7177562524311649,
+   "C10": 0.7975069471457388,
+   "C11": 0.6590757700577987,
+   "C12": 0.7712520770659181,
+   "C13": 0.21949582974457307,
+   "C14": 0.2389483158936777,
+   "C15": 0.246084782084219,
+   "C16": 0.8254816561778336,
+   "C17": 0.6649745297690259,
+   "C18": 0.23314691433349358,
+   "C19": 0.8861188301619319,
+   "C20": 0.6590757700577987,
+   "C21": 0.7844795961166602,
+   "C22": 0.7420112099600471,
+   "C23": 0.8244568999556079,
+   "C24": 0.1466318355292531,
+   "C25": 0.2069576814281353,
+   "C26": 0.2069576814281353,
+   "C27": 0.23432418642303218,
+   "C28": 0.2069576814281353,
+   "C29": 0.23432418642303218,
+   "C30": 0.800972131318716,
+   "C31": 0.2293932502016482,
+   "C32": 0.13823251038385392,
+   "C33": 0.5990943905675289,
+   "C34": 0.6098303889716804,
+   "C35": 0.24443705545182384,
+   "C36": 0.8932409012131716,
+   "C37": 0.6627737226277373
+  },
+  "attempts": {
+   "C01": 5,
+   "C02": 3,
+   "C03": 1,
+   "C04": 5,
+   "C05": 0,
+   "C06": 0,
+   "C07": 0,
+   "C08": 1,
+   "C09": 1,
+   "C10": 1,
+   "C11": 1,
+   "C12": 2,
+   "C13": 0,
+   "C14": 0,
+   "C15": 0,
+   "C16": 2,
+   "C17": 3,
+   "C18": 0,
+   "C19": 3,
+   "C20": 1,
+   "C21": 4,
+   "C22": 8,
+   "C23": 3,
+   "C24": 2,
+   "C25": 0,
+   "C26": 0,
+   "C27": 0,
+   "C28": 0,
+   "C29": 0,
+   "C30": 7,
+   "C31": 3,
+   "C32": 2,
+   "C33": 2,
+   "C34": 1,
+   "C35": 0,
+   "C36": 2,
+   "C37": 1
+  }
+ },
+ "misconceptions": {
+  "M_CURRENT_CONSUMED": {
+   "hits": 1.0,
+   "opportunities": 9.0,
+   "last_source": "distractor"
+  },
+  "M_EYE_EMITS": {
+   "hits": 1.0,
+   "opportunities": 5.0,
+   "last_source": "distractor"
+  },
+  "M_FIELD_LINES_CROSS": {
+   "hits": 2.0,
+   "opportunities": 7.0,
+   "last_source": "distractor"
+  },
+  "M_SOLAR_ZERO_IMPACT": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_NUCLEAR_RENEWABLE": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_LINES_NOT_CLOSED": {
+   "hits": 0.0,
+   "opportunities": 4.0,
+   "last_source": ""
+  },
+  "M_REFRACT_IS_REFLECT": {
+   "hits": 0.0,
+   "opportunities": 7.0,
+   "last_source": ""
+  },
+  "M_SPEED_CONSTANT_ALL_MEDIA": {
+   "hits": 0.0,
+   "opportunities": 4.0,
+   "last_source": ""
+  },
+  "M_RI_HAS_UNITS": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_IMG_ON_SURFACE": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_F_EQUALS_R": {
+   "hits": 4.0,
+   "opportunities": 5.0,
+   "last_source": "distractor"
+  },
+  "M_BEND_AWAY_DENSER": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_DISPERSION_IS_COLOURING": {
+   "hits": 0.0,
+   "opportunities": 3.0,
+   "last_source": ""
+  },
+  "M_TWINKLE_STAR_VARIES": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_SKY_REFLECTS_SEA": {
+   "hits": 1.0,
+   "opportunities": 4.0,
+   "last_source": "distractor"
+  },
+  "M_FLEMING_SWAPPED": {
+   "hits": 1.0,
+   "opportunities": 2.0,
+   "last_source": "distractor"
+  },
+  "M_CONVEX_LENS_ALWAYS_MAGNIFIES": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_LENS_MOVES_TO_FOCUS": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_INDUCTION_NEEDS_BATTERY": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  }
+ },
+ "schedule": {
+  "C22": {
+   "concept": "C22",
+   "ease": 1.3452393391024797,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 4,
+   "due": "2026-11-27"
+  },
+  "C01": {
+   "concept": "C01",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 3,
+   "due": "2026-11-14"
+  },
+  "C23": {
+   "concept": "C23",
+   "ease": 2.444378991294553,
+   "interval": 12,
+   "reps": 3,
+   "lapses": 0,
+   "due": "2026-12-07"
+  },
+  "C24": {
+   "concept": "C24",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 2,
+   "due": "2026-11-23"
+  },
+  "C30": {
+   "concept": "C30",
+   "ease": 1.5103695004466222,
+   "interval": 13,
+   "reps": 4,
+   "lapses": 3,
+   "due": "2026-12-08"
+  },
+  "C36": {
+   "concept": "C36",
+   "ease": 2.405206743780205,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-03"
+  },
+  "C37": {
+   "concept": "C37",
+   "ease": 2.3369460706484095,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-10-30"
+  },
+  "C08": {
+   "concept": "C08",
+   "ease": 2.313197964870008,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-11-03"
+  },
+  "C09": {
+   "concept": "C09",
+   "ease": 2.3197787006918964,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-11-03"
+  },
+  "C02": {
+   "concept": "C02",
+   "ease": 2.428530287955522,
+   "interval": 12,
+   "reps": 3,
+   "lapses": 0,
+   "due": "2026-11-30"
+  },
+  "C03": {
+   "concept": "C03",
+   "ease": 2.3197787006918964,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-11-05"
+  },
+  "C12": {
+   "concept": "C12",
+   "ease": 2.3996852648852616,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-19"
+  },
+  "C04": {
+   "concept": "C04",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 4,
+   "due": "2026-11-20"
+  },
+  "C16": {
+   "concept": "C16",
+   "ease": 2.3916529125351222,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 0,
+   "due": "2026-11-21"
+  },
+  "C10": {
+   "concept": "C10",
+   "ease": 2.3358627791168045,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-11-09"
+  },
+  "C19": {
+   "concept": "C19",
+   "ease": 2.4705343264881896,
+   "interval": 13,
+   "reps": 3,
+   "lapses": 0,
+   "due": "2026-11-27"
+  },
+  "C17": {
+   "concept": "C17",
+   "ease": 1.6865576191394847,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 1,
+   "due": "2026-11-26"
+  },
+  "C20": {
+   "concept": "C20",
+   "ease": 2.3365684464856673,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-11-11"
+  },
+  "C11": {
+   "concept": "C11",
+   "ease": 2.3365684464856673,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-11-12"
+  },
+  "C21": {
+   "concept": "C21",
+   "ease": 1.3618008118194627,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 2,
+   "due": "2026-11-28"
+  },
+  "C31": {
+   "concept": "C31",
+   "ease": 1.6790505084634417,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 1,
+   "due": "2026-11-24"
+  },
+  "C33": {
+   "concept": "C33",
+   "ease": 1.6003358923031572,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 1,
+   "due": "2026-11-23"
+  },
+  "C32": {
+   "concept": "C32",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 2,
+   "due": "2026-11-23"
+  },
+  "C34": {
+   "concept": "C34",
+   "ease": 2.328655415830193,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-11-23"
+  }
+ },
+ "history": [
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-25"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-25"
+  },
+  {
+   "q": "Q046",
+   "concept": "C23",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-26"
+  },
+  {
+   "q": "Q047",
+   "concept": "C24",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-26"
+  },
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_FIELD_LINES_CROSS",
+   "date": "2026-10-27"
+  },
+  {
+   "q": "Q002",
+   "concept": "C01",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-27"
+  },
+  {
+   "q": "Q071",
+   "concept": "C36",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-28"
+  },
+  {
+   "q": "Q073",
+   "concept": "C37",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-28"
+  },
+  {
+   "q": "Q060",
+   "concept": "C30",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-29"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-29"
+  },
+  {
+   "q": "Q044",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-30"
+  },
+  {
+   "q": "Q072",
+   "concept": "C36",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-30"
+  },
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-31"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-31"
+  },
+  {
+   "q": "Q015",
+   "concept": "C08",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-01"
+  },
+  {
+   "q": "Q018",
+   "concept": "C09",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-01"
+  },
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-02"
+  },
+  {
+   "q": "Q003",
+   "concept": "C02",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-02"
+  },
+  {
+   "q": "Q005",
+   "concept": "C03",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-03"
+  },
+  {
+   "q": "Q023",
+   "concept": "C12",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-03"
+  },
+  {
+   "q": "Q007",
+   "concept": "C04",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_F_EQUALS_R",
+   "date": "2026-11-04"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-11-04"
+  },
+  {
+   "q": "Q004",
+   "concept": "C02",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-05"
+  },
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-05"
+  },
+  {
+   "q": "Q008",
+   "concept": "C04",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_F_EQUALS_R",
+   "date": "2026-11-06"
+  },
+  {
+   "q": "Q031",
+   "concept": "C16",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-06"
+  },
+  {
+   "q": "Q019",
+   "concept": "C10",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-07"
+  },
+  {
+   "q": "Q037",
+   "concept": "C19",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-07"
+  },
+  {
+   "q": "Q007",
+   "concept": "C04",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-08"
+  },
+  {
+   "q": "Q034",
+   "concept": "C17",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-08"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-09"
+  },
+  {
+   "q": "Q039",
+   "concept": "C20",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-09"
+  },
+  {
+   "q": "Q021",
+   "concept": "C11",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-10"
+  },
+  {
+   "q": "Q041",
+   "concept": "C21",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_SKY_REFLECTS_SEA",
+   "date": "2026-11-10"
+  },
+  {
+   "q": "Q038",
+   "concept": "C19",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-11"
+  },
+  {
+   "q": "Q061",
+   "concept": "C31",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-11"
+  },
+  {
+   "q": "Q065",
+   "concept": "C33",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_FLEMING_SWAPPED",
+   "date": "2026-11-12"
+  },
+  {
+   "q": "Q007",
+   "concept": "C04",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_F_EQUALS_R",
+   "date": "2026-11-12"
+  },
+  {
+   "q": "Q042",
+   "concept": "C21",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-13"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_EYE_EMITS",
+   "date": "2026-11-13"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-14"
+  },
+  {
+   "q": "Q038",
+   "concept": "C19",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-14"
+  },
+  {
+   "q": "Q024",
+   "concept": "C12",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-15"
+  },
+  {
+   "q": "Q041",
+   "concept": "C21",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-15"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-16"
+  },
+  {
+   "q": "Q033",
+   "concept": "C17",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-16"
+  },
+  {
+   "q": "Q060",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-17"
+  },
+  {
+   "q": "Q032",
+   "concept": "C16",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-17"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-18"
+  },
+  {
+   "q": "Q003",
+   "concept": "C02",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-18"
+  },
+  {
+   "q": "Q062",
+   "concept": "C31",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-19"
+  },
+  {
+   "q": "Q007",
+   "concept": "C04",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_F_EQUALS_R",
+   "date": "2026-11-19"
+  },
+  {
+   "q": "Q064",
+   "concept": "C32",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-20"
+  },
+  {
+   "q": "Q045",
+   "concept": "C23",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-20"
+  },
+  {
+   "q": "Q066",
+   "concept": "C33",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-21"
+  },
+  {
+   "q": "Q067",
+   "concept": "C34",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-21"
+  },
+  {
+   "q": "Q048",
+   "concept": "C24",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-22"
+  },
+  {
+   "q": "Q063",
+   "concept": "C32",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-22"
+  },
+  {
+   "q": "Q061",
+   "concept": "C31",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_FIELD_LINES_CROSS",
+   "date": "2026-11-23"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-23"
+  },
+  {
+   "q": "Q041",
+   "concept": "C21",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-24"
+  },
+  {
+   "q": "Q034",
+   "concept": "C17",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-24"
+  },
+  {
+   "q": "Q046",
+   "concept": "C23",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-25"
+  },
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-25"
+  }
+ ],
+ "held_misconceptions": [
+  "M_CONVEX_LENS_ALWAYS_MAGNIFIES",
+  "M_FLEMING_SWAPPED",
+  "M_F_EQUALS_R",
+  "M_VOLTAGE_DIVIDES_PARALLEL"
+ ]
+}

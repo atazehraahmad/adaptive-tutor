@@ -1,0 +1,989 @@
+{
+ "id": "s024",
+ "name": "Rahul Patel",
+ "section": "10-A",
+ "synthetic": true,
+ "model": {
+  "mastery": {
+   "C01": 0.4479612878535992,
+   "C02": 0.20680960541894688,
+   "C03": 0.13727043119027782,
+   "C04": 0.3909048018721759,
+   "C05": 0.36107167533283124,
+   "C06": 0.156151272137275,
+   "C07": 0.22209443077490643,
+   "C08": 0.19925079669618678,
+   "C09": 0.28095951465297087,
+   "C10": 0.14838135994144408,
+   "C11": 0.21906930487429976,
+   "C12": 0.10309750223715439,
+   "C13": 0.1743317123983001,
+   "C14": 0.20463297088856555,
+   "C15": 0.23326779023562125,
+   "C16": 0.19661579758917158,
+   "C17": 0.2301005751838366,
+   "C18": 0.23975535431911138,
+   "C19": 0.21906930487429976,
+   "C20": 0.21906930487429976,
+   "C21": 0.23887310356211672,
+   "C22": 0.13879022576157826,
+   "C23": 0.10016469153960146,
+   "C24": 0.18294996922889328,
+   "C25": 0.22432522431353036,
+   "C26": 0.22432522431353036,
+   "C27": 0.24072250680567023,
+   "C28": 0.22432522431353036,
+   "C29": 0.24072250680567023,
+   "C30": 0.9319280169295223,
+   "C31": 0.19940685012990575,
+   "C32": 0.09801465318640637,
+   "C33": 0.1026092070177034,
+   "C34": 0.17454884285990893,
+   "C35": 0.2467162422605071,
+   "C36": 0.13873983860456116,
+   "C37": 0.6050356866457128
+  },
+  "attempts": {
+   "C01": 8,
+   "C02": 7,
+   "C03": 4,
+   "C04": 3,
+   "C05": 1,
+   "C06": 1,
+   "C07": 0,
+   "C08": 9,
+   "C09": 1,
+   "C10": 1,
+   "C11": 0,
+   "C12": 1,
+   "C13": 0,
+   "C14": 0,
+   "C15": 0,
+   "C16": 0,
+   "C17": 0,
+   "C18": 0,
+   "C19": 0,
+   "C20": 0,
+   "C21": 0,
+   "C22": 15,
+   "C23": 0,
+   "C24": 0,
+   "C25": 0,
+   "C26": 0,
+   "C27": 0,
+   "C28": 0,
+   "C29": 0,
+   "C30": 11,
+   "C31": 6,
+   "C32": 1,
+   "C33": 2,
+   "C34": 0,
+   "C35": 0,
+   "C36": 9,
+   "C37": 5
+  }
+ },
+ "misconceptions": {
+  "M_FIELD_LINES_CROSS": {
+   "hits": 3.0,
+   "opportunities": 11.0,
+   "last_source": "distractor"
+  },
+  "M_EYE_EMITS": {
+   "hits": 0.0,
+   "opportunities": 8.0,
+   "last_source": ""
+  },
+  "M_CURRENT_CONSUMED": {
+   "hits": 12.0,
+   "opportunities": 15.0,
+   "last_source": "distractor"
+  },
+  "M_LINES_NOT_CLOSED": {
+   "hits": 1.0,
+   "opportunities": 6.0,
+   "last_source": "distractor"
+  },
+  "M_SOLAR_ZERO_IMPACT": {
+   "hits": 2.0,
+   "opportunities": 7.0,
+   "last_source": "distractor"
+  },
+  "M_REFRACT_IS_REFLECT": {
+   "hits": 3.0,
+   "opportunities": 17.0,
+   "last_source": "distractor"
+  },
+  "M_SPEED_CONSTANT_ALL_MEDIA": {
+   "hits": 2.0,
+   "opportunities": 9.0,
+   "last_source": "distractor"
+  },
+  "M_IMG_ON_SURFACE": {
+   "hits": 2.0,
+   "opportunities": 5.0,
+   "last_source": "distractor"
+  },
+  "M_BEND_AWAY_DENSER": {
+   "hits": 0.0,
+   "opportunities": 2.0,
+   "last_source": ""
+  },
+  "M_NUCLEAR_RENEWABLE": {
+   "hits": 2.0,
+   "opportunities": 5.0,
+   "last_source": "distractor"
+  },
+  "M_FLEMING_SWAPPED": {
+   "hits": 1.0,
+   "opportunities": 2.0,
+   "last_source": "distractor"
+  },
+  "M_RI_HAS_UNITS": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_F_EQUALS_R": {
+   "hits": 1.0,
+   "opportunities": 3.0,
+   "last_source": "distractor"
+  },
+  "M_CONCAVE_ALWAYS_REAL": {
+   "hits": 0.0,
+   "opportunities": 1.0,
+   "last_source": ""
+  },
+  "M_NO_SIGN_CONVENTION": {
+   "hits": 1.0,
+   "opportunities": 1.0,
+   "last_source": "distractor"
+  }
+ },
+ "schedule": {
+  "C30": {
+   "concept": "C30",
+   "ease": 1.5430976228942077,
+   "interval": 14,
+   "reps": 4,
+   "lapses": 3,
+   "due": "2026-12-04"
+  },
+  "C36": {
+   "concept": "C36",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 6,
+   "due": "2026-11-22"
+  },
+  "C01": {
+   "concept": "C01",
+   "ease": 1.9164782190848988,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 1,
+   "due": "2026-11-24"
+  },
+  "C22": {
+   "concept": "C22",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 12,
+   "due": "2026-11-22"
+  },
+  "C02": {
+   "concept": "C02",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 3,
+   "due": "2026-11-23"
+  },
+  "C08": {
+   "concept": "C08",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 6,
+   "due": "2026-11-22"
+  },
+  "C03": {
+   "concept": "C03",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 3,
+   "due": "2026-11-15"
+  },
+  "C31": {
+   "concept": "C31",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 3,
+   "due": "2026-11-20"
+  },
+  "C37": {
+   "concept": "C37",
+   "ease": 1.3822906067483767,
+   "interval": 4,
+   "reps": 2,
+   "lapses": 3,
+   "due": "2026-11-12"
+  },
+  "C33": {
+   "concept": "C33",
+   "ease": 1.3,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 2,
+   "due": "2026-11-05"
+  },
+  "C32": {
+   "concept": "C32",
+   "ease": 1.5620799922074184,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 1,
+   "due": "2026-11-06"
+  },
+  "C12": {
+   "concept": "C12",
+   "ease": 1.5636099096867335,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 1,
+   "due": "2026-11-06"
+  },
+  "C09": {
+   "concept": "C09",
+   "ease": 2.31821318721878,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-11-08"
+  },
+  "C10": {
+   "concept": "C10",
+   "ease": 1.5701783867498929,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 1,
+   "due": "2026-11-07"
+  },
+  "C04": {
+   "concept": "C04",
+   "ease": 1.7651452232191929,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 1,
+   "due": "2026-11-16"
+  },
+  "C05": {
+   "concept": "C05",
+   "ease": 2.329351087858832,
+   "interval": 2,
+   "reps": 1,
+   "lapses": 0,
+   "due": "2026-11-12"
+  },
+  "C06": {
+   "concept": "C06",
+   "ease": 1.5697435499352892,
+   "interval": 1,
+   "reps": 0,
+   "lapses": 1,
+   "due": "2026-11-12"
+  }
+ },
+ "history": [
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-25"
+  },
+  {
+   "q": "Q071",
+   "concept": "C36",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-25"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-25"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-10-26"
+  },
+  {
+   "q": "Q060",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-26"
+  },
+  {
+   "q": "Q072",
+   "concept": "C36",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-26"
+  },
+  {
+   "q": "Q003",
+   "concept": "C02",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-27"
+  },
+  {
+   "q": "Q044",
+   "concept": "C22",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-27"
+  },
+  {
+   "q": "Q015",
+   "concept": "C08",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-27"
+  },
+  {
+   "q": "Q005",
+   "concept": "C03",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_IMG_ON_SURFACE",
+   "date": "2026-10-28"
+  },
+  {
+   "q": "Q002",
+   "concept": "C01",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-28"
+  },
+  {
+   "q": "Q061",
+   "concept": "C31",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-28"
+  },
+  {
+   "q": "Q004",
+   "concept": "C02",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-29"
+  },
+  {
+   "q": "Q016",
+   "concept": "C08",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-10-29"
+  },
+  {
+   "q": "Q071",
+   "concept": "C36",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-29"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-10-30"
+  },
+  {
+   "q": "Q073",
+   "concept": "C37",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_NUCLEAR_RENEWABLE",
+   "date": "2026-10-30"
+  },
+  {
+   "q": "Q003",
+   "concept": "C02",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_REFRACT_IS_REFLECT",
+   "date": "2026-10-30"
+  },
+  {
+   "q": "Q060",
+   "concept": "C30",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_LINES_NOT_CLOSED",
+   "date": "2026-10-31"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-10-31"
+  },
+  {
+   "q": "Q074",
+   "concept": "C37",
+   "correct": false,
+   "difficulty": 3,
+   "misconception": "M_SOLAR_ZERO_IMPACT",
+   "date": "2026-10-31"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-01"
+  },
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-01"
+  },
+  {
+   "q": "Q062",
+   "concept": "C31",
+   "correct": true,
+   "difficulty": 3,
+   "misconception": null,
+   "date": "2026-11-01"
+  },
+  {
+   "q": "Q065",
+   "concept": "C33",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-02"
+  },
+  {
+   "q": "Q071",
+   "concept": "C36",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-02"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-11-02"
+  },
+  {
+   "q": "Q073",
+   "concept": "C37",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_NUCLEAR_RENEWABLE",
+   "date": "2026-11-03"
+  },
+  {
+   "q": "Q060",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-03"
+  },
+  {
+   "q": "Q061",
+   "concept": "C31",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-03"
+  },
+  {
+   "q": "Q003",
+   "concept": "C02",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-04"
+  },
+  {
+   "q": "Q066",
+   "concept": "C33",
+   "correct": false,
+   "difficulty": 3,
+   "misconception": "M_FLEMING_SWAPPED",
+   "date": "2026-11-04"
+  },
+  {
+   "q": "Q073",
+   "concept": "C37",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-04"
+  },
+  {
+   "q": "Q015",
+   "concept": "C08",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-05"
+  },
+  {
+   "q": "Q064",
+   "concept": "C32",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-05"
+  },
+  {
+   "q": "Q023",
+   "concept": "C12",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-05"
+  },
+  {
+   "q": "Q018",
+   "concept": "C09",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-06"
+  },
+  {
+   "q": "Q061",
+   "concept": "C31",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_FIELD_LINES_CROSS",
+   "date": "2026-11-06"
+  },
+  {
+   "q": "Q019",
+   "concept": "C10",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-06"
+  },
+  {
+   "q": "Q003",
+   "concept": "C02",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-07"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-11-07"
+  },
+  {
+   "q": "Q006",
+   "concept": "C03",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-07"
+  },
+  {
+   "q": "Q007",
+   "concept": "C04",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-08"
+  },
+  {
+   "q": "Q015",
+   "concept": "C08",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_SPEED_CONSTANT_ALL_MEDIA",
+   "date": "2026-11-08"
+  },
+  {
+   "q": "Q073",
+   "concept": "C37",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-08"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-11-09"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-09"
+  },
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-09"
+  },
+  {
+   "q": "Q008",
+   "concept": "C04",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-10"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-11-10"
+  },
+  {
+   "q": "Q009",
+   "concept": "C05",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-10"
+  },
+  {
+   "q": "Q015",
+   "concept": "C08",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_REFRACT_IS_REFLECT",
+   "date": "2026-11-11"
+  },
+  {
+   "q": "Q011",
+   "concept": "C06",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_NO_SIGN_CONVENTION",
+   "date": "2026-11-11"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-11-11"
+  },
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_FIELD_LINES_CROSS",
+   "date": "2026-11-12"
+  },
+  {
+   "q": "Q015",
+   "concept": "C08",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_SPEED_CONSTANT_ALL_MEDIA",
+   "date": "2026-11-12"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-12"
+  },
+  {
+   "q": "Q005",
+   "concept": "C03",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_IMG_ON_SURFACE",
+   "date": "2026-11-13"
+  },
+  {
+   "q": "Q003",
+   "concept": "C02",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-13"
+  },
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-13"
+  },
+  {
+   "q": "Q015",
+   "concept": "C08",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-14"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-11-14"
+  },
+  {
+   "q": "Q005",
+   "concept": "C03",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-14"
+  },
+  {
+   "q": "Q008",
+   "concept": "C04",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_F_EQUALS_R",
+   "date": "2026-11-15"
+  },
+  {
+   "q": "Q072",
+   "concept": "C36",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_SOLAR_ZERO_IMPACT",
+   "date": "2026-11-15"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-11-15"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-16"
+  },
+  {
+   "q": "Q059",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-16"
+  },
+  {
+   "q": "Q071",
+   "concept": "C36",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-16"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-17"
+  },
+  {
+   "q": "Q061",
+   "concept": "C31",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-17"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-17"
+  },
+  {
+   "q": "Q071",
+   "concept": "C36",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-18"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-11-18"
+  },
+  {
+   "q": "Q060",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-18"
+  },
+  {
+   "q": "Q061",
+   "concept": "C31",
+   "correct": false,
+   "difficulty": 2,
+   "misconception": "M_FIELD_LINES_CROSS",
+   "date": "2026-11-19"
+  },
+  {
+   "q": "Q071",
+   "concept": "C36",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-19"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-11-19"
+  },
+  {
+   "q": "Q001",
+   "concept": "C01",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-20"
+  },
+  {
+   "q": "Q015",
+   "concept": "C08",
+   "correct": true,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-20"
+  },
+  {
+   "q": "Q060",
+   "concept": "C30",
+   "correct": true,
+   "difficulty": 2,
+   "misconception": null,
+   "date": "2026-11-20"
+  },
+  {
+   "q": "Q071",
+   "concept": "C36",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-21"
+  },
+  {
+   "q": "Q043",
+   "concept": "C22",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_CURRENT_CONSUMED",
+   "date": "2026-11-21"
+  },
+  {
+   "q": "Q015",
+   "concept": "C08",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": "M_REFRACT_IS_REFLECT",
+   "date": "2026-11-21"
+  },
+  {
+   "q": "Q003",
+   "concept": "C02",
+   "correct": false,
+   "difficulty": 1,
+   "misconception": null,
+   "date": "2026-11-22"
+  }
+ ],
+ "held_misconceptions": [
+  "M_CURRENT_CONSUMED",
+  "M_DISPERSION_IS_COLOURING",
+  "M_NEG_M_MEANS_SMALL",
+  "M_SKY_REFLECTS_SEA"
+ ]
+}

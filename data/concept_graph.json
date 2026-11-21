@@ -1,0 +1,591 @@
+{
+ "syllabus": "CBSE Class 10 Physics",
+ "misconceptions": [
+  {
+   "id": "M_IMG_ON_SURFACE",
+   "label": "Image forms on the mirror surface itself",
+   "remedy": "Images are located by where reflected rays (or their extensions) intersect, which is generally not at the mirror."
+  },
+  {
+   "id": "M_EYE_EMITS",
+   "label": "Vision works by light travelling from the eye to the object",
+   "remedy": "Light travels from a source, reflects off the object, and enters the eye."
+  },
+  {
+   "id": "M_CONCAVE_ALWAYS_REAL",
+   "label": "A concave mirror always forms a real image",
+   "remedy": "Inside the focus, a concave mirror forms a virtual, erect, enlarged image."
+  },
+  {
+   "id": "M_F_EQUALS_R",
+   "label": "Focal length equals the radius of curvature",
+   "remedy": "For a spherical mirror f = R/2."
+  },
+  {
+   "id": "M_NO_SIGN_CONVENTION",
+   "label": "Distances substituted without sign convention",
+   "remedy": "All distances are measured from the pole; those against the incident light direction are negative."
+  },
+  {
+   "id": "M_NEG_M_MEANS_SMALL",
+   "label": "Negative magnification is read as a smaller image",
+   "remedy": "The sign of m gives orientation (inverted/erect); the modulus gives size."
+  },
+  {
+   "id": "M_REFRACT_IS_REFLECT",
+   "label": "Refraction and reflection are conflated",
+   "remedy": "Reflection returns light into the same medium; refraction transmits it into a second medium with a change in direction."
+  },
+  {
+   "id": "M_BEND_AWAY_DENSER",
+   "label": "Light is said to bend away from the normal entering a denser medium",
+   "remedy": "Entering a denser medium light slows and bends toward the normal."
+  },
+  {
+   "id": "M_RI_HAS_UNITS",
+   "label": "Refractive index is given units",
+   "remedy": "It is a ratio of two speeds, so it is dimensionless."
+  },
+  {
+   "id": "M_SPEED_CONSTANT_ALL_MEDIA",
+   "label": "Light has the same speed in every medium",
+   "remedy": "c is maximum in vacuum; v = c/n in a medium."
+  },
+  {
+   "id": "M_CONVEX_LENS_ALWAYS_MAGNIFIES",
+   "label": "A convex lens always magnifies",
+   "remedy": "Beyond 2F the image is diminished; magnification depends on object position."
+  },
+  {
+   "id": "M_POWER_IN_CM",
+   "label": "Lens power computed with focal length in centimetres",
+   "remedy": "P = 1/f with f in metres, giving dioptres."
+  },
+  {
+   "id": "M_LENS_MOVES_TO_FOCUS",
+   "label": "The eye focuses by moving the lens",
+   "remedy": "Ciliary muscles change the curvature, and so the focal length, of the eye lens."
+  },
+  {
+   "id": "M_MYOPIA_CONVEX",
+   "label": "Myopia corrected with a convex lens",
+   "remedy": "Myopia needs a diverging (concave) lens; hypermetropia needs a converging (convex) one."
+  },
+  {
+   "id": "M_SKY_REFLECTS_SEA",
+   "label": "The sky is blue because it reflects the sea",
+   "remedy": "Shorter wavelengths scatter more strongly off atmospheric particles."
+  },
+  {
+   "id": "M_DISPERSION_IS_COLOURING",
+   "label": "The prism adds colour to white light",
+   "remedy": "White light already contains the components; the prism separates them by wavelength-dependent refraction."
+  },
+  {
+   "id": "M_CURRENT_CONSUMED",
+   "label": "Current is used up as it passes through a component",
+   "remedy": "Charge is conserved; energy is transferred, current entering a series element equals current leaving."
+  },
+  {
+   "id": "M_CURRENT_SAME_PARALLEL",
+   "label": "Current is the same in every parallel branch",
+   "remedy": "Voltage is common across parallel branches; current divides inversely with resistance."
+  },
+  {
+   "id": "M_VOLTAGE_DIVIDES_PARALLEL",
+   "label": "Potential difference divides across parallel branches",
+   "remedy": "Potential difference is identical across parallel branches; it divides in series."
+  },
+  {
+   "id": "M_PARALLEL_ADDS",
+   "label": "Resistances in parallel are added directly",
+   "remedy": "In parallel the reciprocals add, so the total is less than the smallest resistance."
+  },
+  {
+   "id": "M_THICK_WIRE_MORE_R",
+   "label": "A thicker wire has greater resistance",
+   "remedy": "R is inversely proportional to cross-sectional area."
+  },
+  {
+   "id": "M_RESISTIVITY_DEPENDS_GEOMETRY",
+   "label": "Resistivity depends on the length or thickness of the wire",
+   "remedy": "Resistivity is a material property; resistance depends on geometry."
+  },
+  {
+   "id": "M_HEAT_LINEAR_IN_I",
+   "label": "Heat produced is taken as proportional to current",
+   "remedy": "Joule heating gives H = I squared R t, so heat scales with the square of the current."
+  },
+  {
+   "id": "M_POWER_V_OVER_I",
+   "label": "Power computed as V divided by I",
+   "remedy": "P = VI."
+  },
+  {
+   "id": "M_FIELD_LINES_CROSS",
+   "label": "Magnetic field lines are drawn intersecting",
+   "remedy": "Two directions of the field at one point is impossible, so lines never cross."
+  },
+  {
+   "id": "M_LINES_NOT_CLOSED",
+   "label": "Field lines start and stop at the poles",
+   "remedy": "Field lines are closed loops, continuing inside the magnet from south to north."
+  },
+  {
+   "id": "M_FLEMING_SWAPPED",
+   "label": "Fleming's left- and right-hand rules are swapped",
+   "remedy": "Left hand for the force on a current-carrying conductor (motor); right hand for induced current (generator)."
+  },
+  {
+   "id": "M_INDUCTION_NEEDS_BATTERY",
+   "label": "Induced current requires a battery in the coil",
+   "remedy": "Relative motion changing the flux is what drives the induced current."
+  },
+  {
+   "id": "M_EARTH_WIRE_CARRIES",
+   "label": "The earth wire carries current during normal operation",
+   "remedy": "It is a safety path to ground, used only on a fault."
+  },
+  {
+   "id": "M_NUCLEAR_RENEWABLE",
+   "label": "Nuclear energy classed as renewable",
+   "remedy": "Uranium is a finite, exhaustible fuel."
+  },
+  {
+   "id": "M_SOLAR_ZERO_IMPACT",
+   "label": "Solar energy has no environmental cost at any stage",
+   "remedy": "Generation is clean, but manufacture, land use and disposal carry costs."
+  },
+  {
+   "id": "M_TWINKLE_STAR_VARIES",
+   "label": "Stars twinkle because their own brightness fluctuates",
+   "remedy": "Atmospheric refraction varies continuously along the path, so the apparent position and brightness shift."
+  }
+ ],
+ "concepts": [
+  {
+   "id": "C01",
+   "name": "Rectilinear propagation and vision",
+   "chapter": "Light",
+   "prereq": [],
+   "misconceptions": [
+    "M_EYE_EMITS"
+   ]
+  },
+  {
+   "id": "C02",
+   "name": "Laws of reflection",
+   "chapter": "Light",
+   "prereq": [
+    "C01"
+   ],
+   "misconceptions": [
+    "M_REFRACT_IS_REFLECT"
+   ]
+  },
+  {
+   "id": "C03",
+   "name": "Image in a plane mirror",
+   "chapter": "Light",
+   "prereq": [
+    "C02"
+   ],
+   "misconceptions": [
+    "M_IMG_ON_SURFACE"
+   ]
+  },
+  {
+   "id": "C04",
+   "name": "Spherical mirror terminology and f = R/2",
+   "chapter": "Light",
+   "prereq": [
+    "C02"
+   ],
+   "misconceptions": [
+    "M_F_EQUALS_R"
+   ]
+  },
+  {
+   "id": "C05",
+   "name": "Ray diagrams for spherical mirrors",
+   "chapter": "Light",
+   "prereq": [
+    "C04",
+    "C03"
+   ],
+   "misconceptions": [
+    "M_CONCAVE_ALWAYS_REAL",
+    "M_IMG_ON_SURFACE"
+   ]
+  },
+  {
+   "id": "C06",
+   "name": "Mirror formula and sign convention",
+   "chapter": "Light",
+   "prereq": [
+    "C05"
+   ],
+   "misconceptions": [
+    "M_NO_SIGN_CONVENTION",
+    "M_F_EQUALS_R"
+   ]
+  },
+  {
+   "id": "C07",
+   "name": "Magnification for mirrors",
+   "chapter": "Light",
+   "prereq": [
+    "C06"
+   ],
+   "misconceptions": [
+    "M_NEG_M_MEANS_SMALL"
+   ]
+  },
+  {
+   "id": "C08",
+   "name": "Cause of refraction",
+   "chapter": "Light",
+   "prereq": [
+    "C01"
+   ],
+   "misconceptions": [
+    "M_BEND_AWAY_DENSER",
+    "M_SPEED_CONSTANT_ALL_MEDIA",
+    "M_REFRACT_IS_REFLECT"
+   ]
+  },
+  {
+   "id": "C09",
+   "name": "Refractive index",
+   "chapter": "Light",
+   "prereq": [
+    "C08"
+   ],
+   "misconceptions": [
+    "M_RI_HAS_UNITS",
+    "M_SPEED_CONSTANT_ALL_MEDIA"
+   ]
+  },
+  {
+   "id": "C10",
+   "name": "Snell's law",
+   "chapter": "Light",
+   "prereq": [
+    "C09"
+   ],
+   "misconceptions": [
+    "M_BEND_AWAY_DENSER"
+   ]
+  },
+  {
+   "id": "C11",
+   "name": "Refraction through a glass slab",
+   "chapter": "Light",
+   "prereq": [
+    "C10"
+   ],
+   "misconceptions": [
+    "M_BEND_AWAY_DENSER",
+    "M_REFRACT_IS_REFLECT",
+    "M_SPEED_CONSTANT_ALL_MEDIA"
+   ]
+  },
+  {
+   "id": "C12",
+   "name": "Lens terminology and types",
+   "chapter": "Light",
+   "prereq": [
+    "C08"
+   ],
+   "misconceptions": [
+    "M_CONVEX_LENS_ALWAYS_MAGNIFIES",
+    "M_REFRACT_IS_REFLECT"
+   ]
+  },
+  {
+   "id": "C13",
+   "name": "Ray diagrams for lenses",
+   "chapter": "Light",
+   "prereq": [
+    "C12",
+    "C05"
+   ],
+   "misconceptions": [
+    "M_CONVEX_LENS_ALWAYS_MAGNIFIES"
+   ]
+  },
+  {
+   "id": "C14",
+   "name": "Lens formula and magnification",
+   "chapter": "Light",
+   "prereq": [
+    "C13",
+    "C06"
+   ],
+   "misconceptions": [
+    "M_NO_SIGN_CONVENTION",
+    "M_NEG_M_MEANS_SMALL"
+   ]
+  },
+  {
+   "id": "C15",
+   "name": "Power of a lens",
+   "chapter": "Light",
+   "prereq": [
+    "C14"
+   ],
+   "misconceptions": [
+    "M_POWER_IN_CM"
+   ]
+  },
+  {
+   "id": "C16",
+   "name": "Structure of the human eye",
+   "chapter": "Human Eye",
+   "prereq": [
+    "C12"
+   ],
+   "misconceptions": []
+  },
+  {
+   "id": "C17",
+   "name": "Accommodation and near point",
+   "chapter": "Human Eye",
+   "prereq": [
+    "C16"
+   ],
+   "misconceptions": [
+    "M_LENS_MOVES_TO_FOCUS"
+   ]
+  },
+  {
+   "id": "C18",
+   "name": "Myopia and hypermetropia",
+   "chapter": "Human Eye",
+   "prereq": [
+    "C17",
+    "C15"
+   ],
+   "misconceptions": [
+    "M_MYOPIA_CONVEX",
+    "M_POWER_IN_CM"
+   ]
+  },
+  {
+   "id": "C19",
+   "name": "Dispersion through a prism",
+   "chapter": "Human Eye",
+   "prereq": [
+    "C10"
+   ],
+   "misconceptions": [
+    "M_DISPERSION_IS_COLOURING",
+    "M_REFRACT_IS_REFLECT"
+   ]
+  },
+  {
+   "id": "C20",
+   "name": "Atmospheric refraction",
+   "chapter": "Human Eye",
+   "prereq": [
+    "C10"
+   ],
+   "misconceptions": [
+    "M_TWINKLE_STAR_VARIES",
+    "M_REFRACT_IS_REFLECT",
+    "M_SPEED_CONSTANT_ALL_MEDIA"
+   ]
+  },
+  {
+   "id": "C21",
+   "name": "Scattering of light",
+   "chapter": "Human Eye",
+   "prereq": [
+    "C19"
+   ],
+   "misconceptions": [
+    "M_SKY_REFLECTS_SEA",
+    "M_SPEED_CONSTANT_ALL_MEDIA"
+   ]
+  },
+  {
+   "id": "C22",
+   "name": "Electric current and charge",
+   "chapter": "Electricity",
+   "prereq": [],
+   "misconceptions": [
+    "M_CURRENT_CONSUMED"
+   ]
+  },
+  {
+   "id": "C23",
+   "name": "Potential difference",
+   "chapter": "Electricity",
+   "prereq": [
+    "C22"
+   ],
+   "misconceptions": [
+    "M_CURRENT_CONSUMED"
+   ]
+  },
+  {
+   "id": "C24",
+   "name": "Ohm's law",
+   "chapter": "Electricity",
+   "prereq": [
+    "C23"
+   ],
+   "misconceptions": []
+  },
+  {
+   "id": "C25",
+   "name": "Factors affecting resistance",
+   "chapter": "Electricity",
+   "prereq": [
+    "C24"
+   ],
+   "misconceptions": [
+    "M_THICK_WIRE_MORE_R",
+    "M_RESISTIVITY_DEPENDS_GEOMETRY"
+   ]
+  },
+  {
+   "id": "C26",
+   "name": "Resistors in series",
+   "chapter": "Electricity",
+   "prereq": [
+    "C24"
+   ],
+   "misconceptions": [
+    "M_VOLTAGE_DIVIDES_PARALLEL"
+   ]
+  },
+  {
+   "id": "C27",
+   "name": "Resistors in parallel",
+   "chapter": "Electricity",
+   "prereq": [
+    "C26"
+   ],
+   "misconceptions": [
+    "M_PARALLEL_ADDS",
+    "M_CURRENT_SAME_PARALLEL",
+    "M_VOLTAGE_DIVIDES_PARALLEL"
+   ]
+  },
+  {
+   "id": "C28",
+   "name": "Heating effect of current",
+   "chapter": "Electricity",
+   "prereq": [
+    "C24"
+   ],
+   "misconceptions": [
+    "M_HEAT_LINEAR_IN_I",
+    "M_RESISTIVITY_DEPENDS_GEOMETRY"
+   ]
+  },
+  {
+   "id": "C29",
+   "name": "Electric power and energy",
+   "chapter": "Electricity",
+   "prereq": [
+    "C28"
+   ],
+   "misconceptions": [
+    "M_POWER_V_OVER_I",
+    "M_HEAT_LINEAR_IN_I"
+   ]
+  },
+  {
+   "id": "C30",
+   "name": "Magnetic field and field lines",
+   "chapter": "Magnetic Effects",
+   "prereq": [],
+   "misconceptions": [
+    "M_FIELD_LINES_CROSS",
+    "M_LINES_NOT_CLOSED"
+   ]
+  },
+  {
+   "id": "C31",
+   "name": "Field due to a current-carrying conductor",
+   "chapter": "Magnetic Effects",
+   "prereq": [
+    "C30",
+    "C22"
+   ],
+   "misconceptions": [
+    "M_FIELD_LINES_CROSS"
+   ]
+  },
+  {
+   "id": "C32",
+   "name": "Solenoid and electromagnet",
+   "chapter": "Magnetic Effects",
+   "prereq": [
+    "C31"
+   ],
+   "misconceptions": [
+    "M_LINES_NOT_CLOSED"
+   ]
+  },
+  {
+   "id": "C33",
+   "name": "Force on a current-carrying conductor",
+   "chapter": "Magnetic Effects",
+   "prereq": [
+    "C31"
+   ],
+   "misconceptions": [
+    "M_FLEMING_SWAPPED"
+   ]
+  },
+  {
+   "id": "C34",
+   "name": "Electromagnetic induction",
+   "chapter": "Magnetic Effects",
+   "prereq": [
+    "C33"
+   ],
+   "misconceptions": [
+    "M_FLEMING_SWAPPED",
+    "M_INDUCTION_NEEDS_BATTERY"
+   ]
+  },
+  {
+   "id": "C35",
+   "name": "Domestic circuits and safety",
+   "chapter": "Magnetic Effects",
+   "prereq": [
+    "C27",
+    "C29"
+   ],
+   "misconceptions": [
+    "M_EARTH_WIRE_CARRIES",
+    "M_HEAT_LINEAR_IN_I"
+   ]
+  },
+  {
+   "id": "C36",
+   "name": "Conventional sources of energy",
+   "chapter": "Sources of Energy",
+   "prereq": [],
+   "misconceptions": [
+    "M_SOLAR_ZERO_IMPACT"
+   ]
+  },
+  {
+   "id": "C37",
+   "name": "Non-conventional sources of energy",
+   "chapter": "Sources of Energy",
+   "prereq": [
+    "C36"
+   ],
+   "misconceptions": [
+    "M_NUCLEAR_RENEWABLE",
+    "M_SOLAR_ZERO_IMPACT"
+   ]
+  }
+ ]
+}
